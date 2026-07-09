@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "fecha": "Thu, 09 Jul 2026 13:00:00 GMT",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Our approach to government and national security partnerships",
+    "link": "https://openai.com/index/government-national-security-partnerships",
+    "fecha": "Wed, 08 Jul 2026 13:30:00 GMT",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "fecha": "Tue, 07 Jul 2026 08:54:00 +0000",
+    "fuente": "AI"
+  },
+  {
+    "titulo": "The latest AI news we announced in June 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "fecha": "Wed, 01 Jul 2026 18:15:00 +0000",
+    "fuente": "AI"
+  },
+  {
+    "titulo": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "fecha": "Wed, 01 Jul 2026 16:00:00 +0000",
+    "fuente": "AI"
+  },
+  {
+    "titulo": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "fecha": "Tue, 30 Jun 2026 06:00:00 +0000",
+    "fuente": "AI"
+  },
+  {
+    "titulo": "Ask an AI expert: What exactly is the full stack?",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "fecha": "Mon, 29 Jun 2026 16:00:00 +0000",
+    "fuente": "AI"
+  },
+  {
+    "titulo": "Data for Agents",
+    "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "fecha": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Native-speed vLLM transformers modeling backend",
+    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "fecha": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "fecha": "Tue, 07 Jul 2026 21:15:33 GMT",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Hugging Face Models on Foundry Managed Compute",
+    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "fecha": "Tue, 07 Jul 2026 15:20:06 GMT",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "link": "https://huggingface.co/blog/skypilot-hf-storage",
+    "fecha": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "fuente": "Hugging Face - Blog"
+  }
+]
