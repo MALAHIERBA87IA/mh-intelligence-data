@@ -1,92 +1,482 @@
 [
   {
+    "titulo": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "link": "https://openai.com/index/deutsche-telekom",
+    "fecha": "Fri, 10 Jul 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "link": "https://huggingface.co/blog/torch-attention-profile",
+    "fecha": "Fri, 10 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "fecha": "Thu, 09 Jul 2026 13:00:00 GMT",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "fecha": "Thu, 09 Jul 2026 13:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 GMT",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Our approach to government and national security partnerships",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "fecha": "Wed, 08 Jul 2026 13:30:00 GMT",
+    "titulo": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "fecha": "Tue, 07 Jul 2026 08:54:00 +0000",
-    "fuente": "AI"
-  },
-  {
-    "titulo": "The latest AI news we announced in June 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "fecha": "Wed, 01 Jul 2026 18:15:00 +0000",
-    "fuente": "AI"
-  },
-  {
-    "titulo": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "fecha": "Wed, 01 Jul 2026 16:00:00 +0000",
-    "fuente": "AI"
-  },
-  {
-    "titulo": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "fecha": "Tue, 30 Jun 2026 06:00:00 +0000",
-    "fuente": "AI"
-  },
-  {
-    "titulo": "Ask an AI expert: What exactly is the full stack?",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "fecha": "Mon, 29 Jun 2026 16:00:00 +0000",
-    "fuente": "AI"
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Data for Agents",
     "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "fecha": "Wed, 08 Jul 2026 17:16:05 GMT",
+    "fecha": "Wed, 08 Jul 2026 17:16:05 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Our approach to government and national security partnerships",
+    "link": "https://openai.com/index/government-national-security-partnerships",
+    "fecha": "Wed, 08 Jul 2026 13:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Separating signal from noise in coding evaluations",
+    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "fecha": "Wed, 08 Jul 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Helping K–12 educators build practical AI skills",
+    "link": "https://openai.com/index/k-12-educators-practical-skills",
+    "fecha": "Wed, 08 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing GPT-Live",
+    "link": "https://openai.com/index/introducing-gpt-live",
+    "fecha": "Wed, 08 Jul 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Native-speed vLLM transformers modeling backend",
     "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "fecha": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "fecha": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "From Hugging Face to Amazon SageMaker Studio in one click",
     "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "fecha": "Tue, 07 Jul 2026 21:15:33 GMT",
+    "fecha": "Tue, 07 Jul 2026 21:15:33 +0000",
     "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "Hugging Face Models on Foundry Managed Compute",
     "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "fecha": "Tue, 07 Jul 2026 15:20:06 GMT",
+    "fecha": "Tue, 07 Jul 2026 15:20:06 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "fecha": "Tue, 07 Jul 2026 08:54:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
+    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
+    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
     "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "fecha": "Tue, 07 Jul 2026 00:00:00 GMT",
+    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "link": "https://huggingface.co/blog/lerobot-release-v060",
+    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "PRX Part 4: Our Data Strategy",
+    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "fecha": "Mon, 06 Jul 2026 15:30:55 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "🤗 Kernels: Major Updates",
+    "link": "https://huggingface.co/blog/revamped-kernels",
+    "fecha": "Mon, 06 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "The latest AI news we announced in June 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "fecha": "Wed, 01 Jul 2026 18:15:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "fecha": "Wed, 01 Jul 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "fecha": "Wed, 01 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "fecha": "Tue, 30 Jun 2026 18:32:50 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Why Specialization Is Inevitable",
+    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "fecha": "Tue, 30 Jun 2026 14:39:11 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How ChatGPT adoption has expanded",
+    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "fecha": "Tue, 30 Jun 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "fecha": "Tue, 30 Jun 2026 06:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "link": "https://huggingface.co/blog/eee-community-evals",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "DiScoFormer: One transformer for density and score, across distributions",
+    "link": "https://huggingface.co/blog/allenai/discoformer",
+    "fecha": "Mon, 29 Jun 2026 18:02:48 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Ask an AI expert: What exactly is the full stack?",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "fecha": "Mon, 29 Jun 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Mapping Europe’s AI Workforce Opportunity",
+    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "fecha": "Mon, 29 Jun 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "link": "https://openai.com/index/hp-frontier-partnership",
+    "fecha": "Sun, 28 Jun 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Previewing GPT-5.6 Sol: a next-generation model",
+    "link": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "fecha": "Fri, 26 Jun 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Run a vLLM Server on HF Jobs in One Command",
+    "link": "https://huggingface.co/blog/vllm-jobs",
+    "fecha": "Fri, 26 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Our latest Google Finance upgrades, including a new app",
+    "link": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
+    "fecha": "Thu, 25 Jun 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "How agents are transforming work",
+    "link": "https://openai.com/index/how-agents-are-transforming-work",
+    "fecha": "Thu, 25 Jun 2026 02:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "fecha": "Wed, 24 Jun 2026 16:00:13 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "fecha": "Wed, 24 Jun 2026 06:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+    "link": "https://huggingface.co/blog/ffasr-leaderboard",
+    "fecha": "Wed, 24 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "link": "https://openai.com/index/gpt-5-immunology-mystery",
+    "fecha": "Tue, 23 Jun 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Helping build shared standards for advanced AI",
+    "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "fecha": "Tue, 23 Jun 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Omio is building the future of conversational travel",
+    "link": "https://openai.com/index/omio",
+    "fecha": "Tue, 23 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+    "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "fecha": "Tue, 23 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+    "link": "https://huggingface.co/blog/cross-origin-storage",
+    "fecha": "Tue, 23 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "fecha": "Mon, 22 Jun 2026 13:18:56 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
+    "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Codex-maxxing for long-running work",
+    "link": "https://openai.com/index/codex-maxxing-long-running-work",
+    "fecha": "Mon, 22 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "We got local models to triage the OpenClaw repo for FREE!*",
+    "link": "https://huggingface.co/blog/local-models-pr-triage",
+    "fecha": "Mon, 22 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "fecha": "Sun, 21 Jun 2026 23:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "MosaicLeaks: Can your research agent keep a secret?",
+    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "fecha": "Thu, 18 Jun 2026 18:13:13 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "New usage analytics and updated spend controls for enterprises",
+    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "fecha": "Thu, 18 Jun 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Improving health intelligence in ChatGPT",
+    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "fecha": "Thu, 18 Jun 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "fecha": "Thu, 18 Jun 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+    "link": "https://huggingface.co/blog/peft-beyond-lora",
+    "fecha": "Thu, 18 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Is it agentic enough? Benchmarking open models on your own tooling",
+    "link": "https://huggingface.co/blog/is-it-agentic-enough",
+    "fecha": "Thu, 18 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "fecha": "Wed, 17 Jun 2026 15:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "fecha": "Wed, 17 Jun 2026 10:18:05 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "link": "https://openai.com/index/ai-chemist-improves-reaction",
+    "fecha": "Wed, 17 Jun 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "GLM-5.2: Built for Long-Horizon Tasks",
+    "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "fecha": "Wed, 17 Jun 2026 09:01:25 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Introducing LifeSciBench",
+    "link": "https://openai.com/index/introducing-life-sci-bench",
+    "fecha": "Wed, 17 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Agentic Resource Discovery: Let agents search",
+    "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "fecha": "Wed, 17 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Predicting model behavior before release by simulating deployment",
+    "link": "https://openai.com/index/deployment-simulation",
+    "fecha": "Tue, 16 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "fecha": "Mon, 15 Jun 2026 15:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Introducing the OpenAI Partner Network",
+    "link": "https://openai.com/index/introducing-openai-partner-network",
+    "fecha": "Sun, 14 Jun 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "New OpenAI Academy courses for the next era of work",
+    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "fecha": "Fri, 12 Jun 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Preply combines AI and human tutors to personalize learning",
+    "link": "https://openai.com/index/preply",
+    "fecha": "Fri, 12 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "fecha": "Thu, 11 Jun 2026 20:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OpenAI to acquire Ona",
+    "link": "https://openai.com/index/openai-to-acquire-ona",
+    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva",
+    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "link": "https://huggingface.co/blog/torch-mlp-fusion",
+    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "link": "https://openai.com/index/openai-on-oracle-cloud",
+    "fecha": "Wed, 10 Jun 2026 20:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "PRC-linked influence operations are targeting AI debates in the US",
+    "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "fecha": "Wed, 10 Jun 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "From data to decisions: how LSEG is scaling trusted AI",
+    "link": "https://openai.com/index/lseg",
+    "fecha": "Wed, 10 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   }
 ]
