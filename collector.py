@@ -3,6 +3,7 @@
 
 Collects fresh official AI news, deduplicates by canonical URL, sorts newest first,
 and writes the frontend contract expected by MH-INTELLIGENCE.
+Runs unattended from GitHub Actions three times daily.
 """
 from __future__ import annotations
 
