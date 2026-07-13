@@ -6,6 +6,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Getting started with ChatGPT",
+    "link": "https://openai.com/academy/getting-started",
+    "fecha": "Fri, 10 Jul 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "link": "https://huggingface.co/blog/torch-attention-profile",
     "fecha": "Fri, 10 Jul 2026 00:00:00 +0000",
@@ -18,6 +24,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -26,12 +38,6 @@
   {
     "titulo": "ChatGPT is now a partner for your most ambitious work",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -168,12 +174,6 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Introducing GeneBench-Pro",
     "link": "https://openai.com/index/introducing-genebench-pro",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
@@ -182,6 +182,12 @@
   {
     "titulo": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -294,14 +300,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
+    "titulo": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -432,8 +438,14 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "titulo": "BBVA puts AI at the core of banking with OpenAI",
+    "link": "https://openai.com/index/bbva",
+    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -444,14 +456,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva",
-    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "titulo": "How an astrophysicist uses Codex to help simulate black holes",
+    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "PRC-linked influence operations are targeting AI debates in the US",
     "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
     "fecha": "Wed, 10 Jun 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "From data to decisions: how LSEG is scaling trusted AI",
-    "link": "https://openai.com/index/lseg",
-    "fecha": "Wed, 10 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
