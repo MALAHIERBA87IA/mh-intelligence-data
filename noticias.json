@@ -1,13 +1,25 @@
 [
   {
-    "titulo": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
+    "titulo": "Celebrating 25 years of visual search innovation",
+    "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "fecha": "Tue, 14 Jul 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "How to manage AI investments in the agentic era",
+    "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "fecha": "Tue, 14 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "How sales teams use ChatGPT Work",
     "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -36,6 +48,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -44,12 +62,6 @@
   {
     "titulo": "ChatGPT is now a partner for your most ambitious work",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -186,14 +198,14 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "titulo": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -312,14 +324,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
+    "titulo": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-    "link": "https://huggingface.co/blog/torch-mlp-fusion",
-    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
