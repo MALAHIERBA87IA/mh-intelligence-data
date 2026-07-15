@@ -1,5 +1,41 @@
 [
   {
+    "titulo": "What building Shippy taught us about building agents",
+    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "fecha": "Wed, 15 Jul 2026 17:29:41 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Model Routing Is Simple. Until It Isn’t.",
+    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "fecha": "Wed, 15 Jul 2026 17:27:01 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "The US is advancing AI safety through state and federal action",
+    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "fecha": "Wed, 15 Jul 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "fecha": "Wed, 15 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Welcome Inkling by Thinking Machines",
+    "link": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "fecha": "Wed, 15 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "link": "https://huggingface.co/blog/real-world-voiceeq",
+    "fecha": "Wed, 15 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Celebrating 25 years of visual search innovation",
     "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
     "fecha": "Tue, 14 Jul 2026 16:00:00 +0000",
@@ -48,14 +84,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6",
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
+    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -441,42 +477,6 @@
     "titulo": "Introducing the OpenAI Partner Network",
     "link": "https://openai.com/index/introducing-openai-partner-network",
     "fecha": "Sun, 14 Jun 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "New OpenAI Academy courses for the next era of work",
-    "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "fecha": "Fri, 12 Jun 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Preply combines AI and human tutors to personalize learning",
-    "link": "https://openai.com/index/preply",
-    "fecha": "Fri, 12 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-    "fecha": "Thu, 11 Jun 2026 20:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "OpenAI to acquire Ona",
-    "link": "https://openai.com/index/openai-to-acquire-ona",
-    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How an astrophysicist uses Codex to help simulate black holes",
-    "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "BBVA puts AI at the core of banking with OpenAI",
-    "link": "https://openai.com/index/bbva",
-    "fecha": "Thu, 11 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
