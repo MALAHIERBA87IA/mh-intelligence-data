@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Newer Models, Same Advantage",
+    "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "fecha": "Thu, 16 Jul 2026 11:49:48 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Security incident disclosure — July 2026",
+    "link": "https://huggingface.co/blog/security-incident-july-2026",
+    "fecha": "Thu, 16 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "What building Shippy taught us about building agents",
     "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
     "fecha": "Wed, 15 Jul 2026 17:29:41 +0000",
@@ -465,18 +477,6 @@
     "titulo": "Predicting model behavior before release by simulating deployment",
     "link": "https://openai.com/index/deployment-simulation",
     "fecha": "Tue, 16 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "We’re strengthening our presence in Alabama through new investments and community support.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-    "fecha": "Mon, 15 Jun 2026 15:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Introducing the OpenAI Partner Network",
-    "link": "https://openai.com/index/introducing-openai-partner-network",
-    "fecha": "Sun, 14 Jun 2026 17:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
