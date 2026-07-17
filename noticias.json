@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "fecha": "Fri, 17 Jul 2026 15:57:54 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "A scorecard for the AI age",
+    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "fecha": "Fri, 17 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
     "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
     "fecha": "Thu, 16 Jul 2026 16:01:21 +0000",
@@ -132,14 +144,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6",
+    "titulo": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -198,14 +210,14 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
+    "titulo": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
+    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -276,6 +288,12 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
@@ -284,12 +302,6 @@
   {
     "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
     "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -402,14 +414,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
+    "titulo": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Is it agentic enough? Benchmarking open models on your own tooling",
     "link": "https://huggingface.co/blog/is-it-agentic-enough",
     "fecha": "Thu, 18 Jun 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-    "fecha": "Wed, 17 Jun 2026 15:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-    "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "fecha": "Wed, 17 Jun 2026 10:18:05 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
