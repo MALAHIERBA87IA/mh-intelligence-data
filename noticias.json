@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Introducing the ChatGPT for small business program",
+    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "fecha": "Tue, 21 Jul 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Grabette: an open system to record robot-manipulation data",
     "link": "https://huggingface.co/blog/grabette",
     "fecha": "Tue, 21 Jul 2026 00:00:00 +0000",
@@ -156,14 +162,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6",
+    "titulo": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -432,14 +438,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
+    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "link": "https://openai.com/index/patch-the-planet",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
+    "titulo": "Daybreak: Tools for securing every organization in the world",
+    "link": "https://openai.com/index/daybreak-securing-the-world",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "New usage analytics and updated spend controls for enterprises",
     "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "fecha": "Thu, 18 Jun 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Improving health intelligence in ChatGPT",
-    "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "fecha": "Thu, 18 Jun 2026 11:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
