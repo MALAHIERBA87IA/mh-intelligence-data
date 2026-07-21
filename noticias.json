@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Grabette: an open system to record robot-manipulation data",
+    "link": "https://huggingface.co/blog/grabette",
+    "fecha": "Tue, 21 Jul 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Introducing Cosmos 3 Edge",
     "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
     "fecha": "Mon, 20 Jul 2026 15:58:51 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Improving health intelligence in ChatGPT",
     "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
     "fecha": "Thu, 18 Jun 2026 11:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "fecha": "Thu, 18 Jun 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
