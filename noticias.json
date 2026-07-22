@@ -12,6 +12,12 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "Advancing the next era of national science",
+    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "fecha": "Wed, 22 Jul 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Introducing OpenAI Presence",
     "link": "https://openai.com/index/introducing-openai-presence",
     "fecha": "Wed, 22 Jul 2026 05:30:00 +0000",
@@ -198,6 +204,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "ChatGPT is now a partner for your most ambitious work",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -206,12 +218,6 @@
   {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -270,14 +276,14 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
+    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
+    "titulo": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -348,6 +354,12 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
@@ -356,12 +368,6 @@
   {
     "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
     "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
     "fecha": "Mon, 22 Jun 2026 13:18:56 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Daybreak: Tools for securing every organization in the world",
-    "link": "https://openai.com/index/daybreak-securing-the-world",
-    "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
