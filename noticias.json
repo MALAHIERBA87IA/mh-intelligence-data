@@ -1,8 +1,26 @@
 [
   {
+    "titulo": "The State of Simulation for Physical AI: An Overview",
+    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "fecha": "Tue, 21 Jul 2026 20:00:27 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Introducing the ChatGPT for small business program",
     "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
     "fecha": "Tue, 21 Jul 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "fecha": "Tue, 21 Jul 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "fecha": "Tue, 21 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -162,12 +180,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -176,6 +188,12 @@
   {
     "titulo": "GPT-5.5 Bio Bug Bounty",
     "link": "https://openai.com/index/bio-bug-bounty",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -234,14 +252,14 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
+    "titulo": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
+    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -312,6 +330,12 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
     "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
@@ -320,12 +344,6 @@
   {
     "titulo": "Introducing GeneBench-Pro",
     "link": "https://openai.com/index/introducing-genebench-pro",
-    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://huggingface.co/blog/local-models-pr-triage",
     "fecha": "Mon, 22 Jun 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Samsung Electronics brings ChatGPT and Codex to employees",
-    "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "fecha": "Sun, 21 Jun 2026 23:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "MosaicLeaks: Can your research agent keep a secret?",
-    "link": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "fecha": "Thu, 18 Jun 2026 18:13:13 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "New usage analytics and updated spend controls for enterprises",
-    "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "fecha": "Thu, 18 Jun 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
