@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Building AI infrastructure with the Effingham County community",
+    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "3 Google updates from Galaxy Unpacked 2026",
+    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Introducing OpenAI Presence",
+    "link": "https://openai.com/index/introducing-openai-presence",
+    "fecha": "Wed, 22 Jul 2026 05:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "The State of Simulation for Physical AI: An Overview",
     "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
     "fecha": "Tue, 21 Jul 2026 20:00:27 +0000",
@@ -180,6 +198,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -188,12 +212,6 @@
   {
     "titulo": "GPT-5.5 Bio Bug Bounty",
     "link": "https://openai.com/index/bio-bug-bounty",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -456,27 +474,9 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-    "link": "https://openai.com/index/patch-the-planet",
-    "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Daybreak: Tools for securing every organization in the world",
     "link": "https://openai.com/index/daybreak-securing-the-world",
     "fecha": "Mon, 22 Jun 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Codex-maxxing for long-running work",
-    "link": "https://openai.com/index/codex-maxxing-long-running-work",
-    "fecha": "Mon, 22 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "We got local models to triage the OpenClaw repo for FREE!*",
-    "link": "https://huggingface.co/blog/local-models-pr-triage",
-    "fecha": "Mon, 22 Jun 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
