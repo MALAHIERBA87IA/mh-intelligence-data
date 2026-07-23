@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Launching Health in ChatGPT",
+    "link": "https://openai.com/index/health-in-chatgpt",
+    "fecha": "Thu, 23 Jul 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "link": "https://huggingface.co/blog/nunchaku-diffusers",
     "fecha": "Thu, 23 Jul 2026 00:00:00 +0000",
@@ -186,14 +192,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "titulo": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How sales teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "titulo": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -222,6 +228,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "ChatGPT is now a partner for your most ambitious work",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -230,12 +242,6 @@
   {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -372,12 +378,6 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Introducing GeneBench-Pro",
-    "link": "https://openai.com/index/introducing-genebench-pro",
-    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
@@ -386,6 +386,12 @@
   {
     "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
     "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing GeneBench-Pro",
+    "link": "https://openai.com/index/introducing-genebench-pro",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "Helping build shared standards for advanced AI",
     "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "fecha": "Tue, 23 Jun 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Omio is building the future of conversational travel",
-    "link": "https://openai.com/index/omio",
-    "fecha": "Tue, 23 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
