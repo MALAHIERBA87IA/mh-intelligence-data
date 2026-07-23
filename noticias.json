@@ -6,6 +6,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "How news organizations are using AI to advance their vital missions",
+    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "3 Google updates from Galaxy Unpacked 2026",
     "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
     "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
@@ -21,6 +27,12 @@
     "titulo": "Introducing OpenAI Presence",
     "link": "https://openai.com/index/introducing-openai-presence",
     "fecha": "Wed, 22 Jul 2026 05:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "link": "https://openai.com/index/ntt-data",
+    "fecha": "Wed, 22 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -168,14 +180,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How sales teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "titulo": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "titulo": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -204,12 +216,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "ChatGPT is now a partner for your most ambitious work",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -218,6 +224,12 @@
   {
     "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
     "link": "https://openai.com/index/gpt-5-6",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -276,14 +288,14 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
+    "titulo": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
+    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
     "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
     "fecha": "Tue, 23 Jun 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-    "link": "https://huggingface.co/blog/cross-origin-storage",
-    "fecha": "Tue, 23 Jun 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-    "link": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "fecha": "Mon, 22 Jun 2026 13:18:56 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
