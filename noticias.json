@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "fecha": "Mon, 27 Jul 2026 09:32:20 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How AI is expanding what people do at work",
+    "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "fecha": "Mon, 27 Jul 2026 03:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Launching Health in ChatGPT",
     "link": "https://openai.com/index/health-in-chatgpt",
     "fecha": "Thu, 23 Jul 2026 00:00:00 +0000",
@@ -384,12 +396,6 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
-    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Inside Genebench-Pro",
     "link": "https://openai.com/index/genebench-pro/case-studies",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
@@ -398,6 +404,12 @@
   {
     "titulo": "Introducing GeneBench-Pro",
     "link": "https://openai.com/index/introducing-genebench-pro",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Core dump epidemiology: fixing an 18-year-old bug",
+    "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "fecha": "Wed, 24 Jun 2026 06:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
-    "link": "https://huggingface.co/blog/ffasr-leaderboard",
-    "fecha": "Wed, 24 Jun 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "link": "https://openai.com/index/gpt-5-immunology-mystery",
-    "fecha": "Tue, 23 Jun 2026 17:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
