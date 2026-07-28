@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "5 ways AI Mode in Search helps you enjoy the real world",
+    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "fecha": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "5 ways to host the ultimate dinner party with Google Search",
+    "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "fecha": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "link": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "fecha": "Mon, 27 Jul 2026 09:32:20 +0000",
@@ -465,18 +477,6 @@
     "titulo": "How agents are transforming work",
     "link": "https://openai.com/index/how-agents-are-transforming-work",
     "fecha": "Thu, 25 Jun 2026 02:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "link": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "fecha": "Wed, 24 Jun 2026 16:00:13 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "fecha": "Wed, 24 Jun 2026 06:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
