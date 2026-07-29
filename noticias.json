@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "fecha": "Wed, 29 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Scientific computing in the age of agentic AI",
     "link": "https://openai.com/index/scientific-computing-agentic-ai",
     "fecha": "Tue, 28 Jul 2026 17:00:00 +0000",
@@ -252,14 +258,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How sales teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "titulo": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "titulo": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -294,14 +300,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "ChatGPT is now a partner for your most ambitious work",
-    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "titulo": "GPT-5.5 Bio Bug Bounty",
+    "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-5.5 Bio Bug Bounty",
-    "link": "https://openai.com/index/bio-bug-bounty",
+    "titulo": "ChatGPT is now a partner for your most ambitious work",
+    "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
     "fecha": "Mon, 29 Jun 2026 16:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "Mapping Europe’s AI Workforce Opportunity",
-    "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "fecha": "Mon, 29 Jun 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
