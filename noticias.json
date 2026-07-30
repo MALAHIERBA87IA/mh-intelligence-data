@@ -1,8 +1,20 @@
 [
   {
+    "titulo": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "fecha": "Wed, 29 Jul 2026 15:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
     "link": "https://openai.com/index/chatgpt-for-academic-researchers",
     "fecha": "Wed, 29 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "fecha": "Wed, 29 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -258,14 +270,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How data science teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "titulo": "How sales teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How sales teams use ChatGPT Work",
-    "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "titulo": "How data science teams use ChatGPT Work",
+    "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
     "fecha": "Tue, 14 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -294,12 +306,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "link": "https://openai.com/index/gpt-5-6",
-    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "GPT-5.5 Bio Bug Bounty",
     "link": "https://openai.com/index/bio-bug-bounty",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
@@ -308,6 +314,12 @@
   {
     "titulo": "ChatGPT is now a partner for your most ambitious work",
     "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "link": "https://openai.com/index/gpt-5-6",
     "fecha": "Thu, 09 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -366,14 +378,14 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
+    "titulo": "MUFG aims to become AI-native with OpenAI",
+    "link": "https://openai.com/index/mufg",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
+    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
+    "link": "https://openai.com/index/australian-payments-plus",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -444,12 +456,6 @@
     "fuente": "Google AI"
   },
   {
-    "titulo": "Inside Genebench-Pro",
-    "link": "https://openai.com/index/genebench-pro/case-studies",
-    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Introducing GeneBench-Pro",
     "link": "https://openai.com/index/introducing-genebench-pro",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
@@ -462,21 +468,15 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Inside Genebench-Pro",
+    "link": "https://openai.com/index/genebench-pro/case-studies",
+    "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
     "link": "https://huggingface.co/blog/eee-community-evals",
     "fecha": "Tue, 30 Jun 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "DiScoFormer: One transformer for density and score, across distributions",
-    "link": "https://huggingface.co/blog/allenai/discoformer",
-    "fecha": "Mon, 29 Jun 2026 18:02:48 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Ask an AI expert: What exactly is the full stack?",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "fecha": "Mon, 29 Jun 2026 16:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
