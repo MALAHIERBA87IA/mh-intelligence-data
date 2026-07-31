@@ -1,7 +1,19 @@
 [
   {
+    "titulo": "Disrupting a Criminal Scam Operation",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "fecha": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Advancing responsible AI across Europe",
     "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "fecha": "Fri, 31 Jul 2026 15:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Building abundant intelligence",
+    "link": "https://openai.com/index/building-abundant-intelligence",
     "fecha": "Fri, 31 Jul 2026 15:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://huggingface.co/blog/ibm-research/scarfbench",
     "fecha": "Tue, 30 Jun 2026 18:32:50 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Why Specialization Is Inevitable",
-    "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "fecha": "Tue, 30 Jun 2026 14:39:11 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "How ChatGPT adoption has expanded",
-    "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "fecha": "Tue, 30 Jun 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
