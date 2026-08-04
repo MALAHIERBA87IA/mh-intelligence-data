@@ -1,15 +1,33 @@
 [
   {
+    "titulo": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "fecha": "Tue, 04 Aug 2026 13:58:29 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "The latest AI news we announced in July 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
     "fecha": "Tue, 04 Aug 2026 13:00:00 +0000",
     "fuente": "Google AI"
   },
   {
+    "titulo": "New ways to learn and teach with ChatGPT Work and Codex",
+    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "fecha": "Tue, 04 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Apple is getting this wrong",
     "link": "https://openai.com/index/apple-is-getting-this-wrong",
     "fecha": "Mon, 03 Aug 2026 22:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Inside our 353,000-person vibe coding course",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "fecha": "Mon, 03 Aug 2026 15:00:00 +0000",
+    "fuente": "Google AI"
   },
   {
     "titulo": "How we built a realtime system for responsive voice AI in six months",
@@ -460,23 +478,5 @@
     "link": "https://openai.com/index/mufg",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-    "link": "https://huggingface.co/blog/skypilot-hf-storage",
-    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-    "link": "https://huggingface.co/blog/lerobot-release-v060",
-    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "PRX Part 4: Our Data Strategy",
-    "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "fecha": "Mon, 06 Jul 2026 15:30:55 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
