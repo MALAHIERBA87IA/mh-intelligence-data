@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "The latest AI news we announced in July 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "fecha": "Tue, 04 Aug 2026 13:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Apple is getting this wrong",
+    "link": "https://openai.com/index/apple-is-getting-this-wrong",
+    "fecha": "Mon, 03 Aug 2026 22:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How we built a realtime system for responsive voice AI in six months",
     "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "fecha": "Mon, 03 Aug 2026 07:00:00 +0000",
@@ -466,17 +478,5 @@
     "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
     "fecha": "Mon, 06 Jul 2026 15:30:55 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "🤗 Kernels: Major Updates",
-    "link": "https://huggingface.co/blog/revamped-kernels",
-    "fecha": "Mon, 06 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "The latest AI news we announced in June 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-    "fecha": "Wed, 01 Jul 2026 18:15:00 +0000",
-    "fuente": "Google AI"
   }
 ]
