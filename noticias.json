@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "How we built a realtime system for responsive voice AI in six months",
+    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "fecha": "Mon, 03 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Circles powers telco personalization with OpenAI technology",
+    "link": "https://openai.com/index/circles",
+    "fecha": "Mon, 03 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Ten advances in mathematics and theoretical computer science",
     "link": "https://openai.com/index/ten-advances-in-mathematics",
     "fecha": "Sat, 01 Aug 2026 00:00:00 +0000",
@@ -466,17 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
     "fecha": "Wed, 01 Jul 2026 18:15:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-    "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-    "fecha": "Wed, 01 Jul 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-    "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "fecha": "Wed, 01 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
