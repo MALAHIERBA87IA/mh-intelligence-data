@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Third-party cyber evaluations involving OpenAI models",
+    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "fecha": "Tue, 04 Aug 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Deploy local agents everywhere with LFM2.5-2.6B",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "fecha": "Tue, 04 Aug 2026 13:58:29 +0000",
@@ -470,12 +476,6 @@
   {
     "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "link": "https://openai.com/index/australian-payments-plus",
-    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "MUFG aims to become AI-native with OpenAI",
-    "link": "https://openai.com/index/mufg",
     "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
