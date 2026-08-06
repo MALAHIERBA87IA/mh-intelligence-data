@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "fecha": "Thu, 06 Aug 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Working with the American Psychological Association on youth mental health and AI",
+    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "fecha": "Thu, 06 Aug 2026 06:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "From asking to doing: How the world is putting ChatGPT to work",
+    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "fecha": "Thu, 06 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Baseten on Hugging Face Inference Providers 🔥",
+    "link": "https://huggingface.co/blog/baseten",
+    "fecha": "Thu, 06 Aug 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Third-party cyber evaluations involving OpenAI models",
     "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "fecha": "Tue, 04 Aug 2026 19:00:00 +0000",
@@ -454,29 +478,5 @@
     "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
     "fecha": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "From Hugging Face to Amazon SageMaker Studio in one click",
-    "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "fecha": "Tue, 07 Jul 2026 21:15:33 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Hugging Face Models on Foundry Managed Compute",
-    "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-    "fecha": "Tue, 07 Jul 2026 15:20:06 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-    "fecha": "Tue, 07 Jul 2026 08:54:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Australian Payments Plus moves faster with ChatGPT and Codex",
-    "link": "https://openai.com/index/australian-payments-plus",
-    "fecha": "Tue, 07 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
