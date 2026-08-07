@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "link": "https://huggingface.co/blog/allenai/tutormoments",
+    "fecha": "Fri, 07 Aug 2026 17:53:32 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Responding to the next frontier of critical cyber capabilities",
+    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "fecha": "Fri, 07 Aug 2026 15:20:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "link": "https://openai.com/index/hsp-gruppe",
     "fecha": "Fri, 07 Aug 2026 09:00:00 +0000",
@@ -465,18 +477,6 @@
     "titulo": "Separating signal from noise in coding evaluations",
     "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "fecha": "Wed, 08 Jul 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Helping K–12 educators build practical AI skills",
-    "link": "https://openai.com/index/k-12-educators-practical-skills",
-    "fecha": "Wed, 08 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing GPT-Live",
-    "link": "https://openai.com/index/introducing-gpt-live",
-    "fecha": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
