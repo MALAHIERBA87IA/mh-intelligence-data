@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "link": "https://openai.com/index/hsp-gruppe",
+    "fecha": "Fri, 07 Aug 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "fecha": "Thu, 06 Aug 2026 10:00:00 +0000",
@@ -472,11 +478,5 @@
     "link": "https://openai.com/index/introducing-gpt-live",
     "fecha": "Wed, 08 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Native-speed vLLM transformers modeling backend",
-    "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "fecha": "Wed, 08 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
