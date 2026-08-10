@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "fecha": "Mon, 10 Aug 2026 10:05:36 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "link": "https://huggingface.co/blog/muse-glimmer",
+    "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "TutorMoments: Do AI tutors know when to help and when to hold back?",
     "link": "https://huggingface.co/blog/allenai/tutormoments",
     "fecha": "Fri, 07 Aug 2026 17:53:32 +0000",
@@ -466,17 +478,5 @@
     "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "fecha": "Wed, 08 Jul 2026 17:16:05 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Our approach to government and national security partnerships",
-    "link": "https://openai.com/index/government-national-security-partnerships",
-    "fecha": "Wed, 08 Jul 2026 13:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Separating signal from noise in coding evaluations",
-    "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "fecha": "Wed, 08 Jul 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
