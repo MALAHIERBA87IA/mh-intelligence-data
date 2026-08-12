@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "fecha": "Wed, 12 Aug 2026 16:14:36 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "fecha": "Wed, 12 Aug 2026 14:00:51 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "From assistance to execution: How enterprises put AI to work",
+    "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "fecha": "Wed, 12 Aug 2026 06:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "fecha": "Tue, 11 Aug 2026 17:00:00 +0000",
@@ -460,23 +478,5 @@
     "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
     "fecha": "Wed, 15 Jul 2026 17:29:41 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Model Routing Is Simple. Until It Isn’t.",
-    "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "fecha": "Wed, 15 Jul 2026 17:27:01 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "The US is advancing AI safety through state and federal action",
-    "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "fecha": "Wed, 15 Jul 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "fecha": "Wed, 15 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
