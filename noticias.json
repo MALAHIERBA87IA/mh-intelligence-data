@@ -18,6 +18,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "How RingCentral builds AI-native work from engineering to ops",
+    "link": "https://openai.com/index/ringcentral",
+    "fecha": "Wed, 12 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "fecha": "Tue, 11 Aug 2026 17:00:00 +0000",
@@ -78,20 +84,20 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Putting frontier cyber models in more trusted hands",
     "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Premium seats are coming to ChatGPT Business",
-    "link": "https://openai.com/index/premium-seats-chatgpt-business",
+    "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -102,8 +108,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "titulo": "Premium seats are coming to ChatGPT Business",
+    "link": "https://openai.com/index/premium-seats-chatgpt-business",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "Security incident disclosure — July 2026",
     "link": "https://huggingface.co/blog/security-incident-july-2026",
     "fecha": "Thu, 16 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "What building Shippy taught us about building agents",
-    "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "fecha": "Wed, 15 Jul 2026 17:29:41 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
