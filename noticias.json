@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Get closer to the game with Gemini and Pixel",
+    "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "fecha": "Mon, 17 Aug 2026 08:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "New policy ideas for the Intelligence Age",
+    "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "fecha": "Mon, 17 Aug 2026 03:15:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "State of Open Models: Summer 2026 Observations",
     "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "fecha": "Fri, 14 Aug 2026 00:00:00 +0000",
@@ -465,18 +477,6 @@
     "titulo": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
     "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "fecha": "Fri, 17 Jul 2026 15:57:54 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "A scorecard for the AI age",
-    "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "fecha": "Fri, 17 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "fecha": "Thu, 16 Jul 2026 16:01:21 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
