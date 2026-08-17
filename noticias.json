@@ -6,6 +6,18 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "The Defender’s Window",
+    "link": "https://openai.com/index/the-defenders-window",
+    "fecha": "Mon, 17 Aug 2026 05:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OpenAI joins PORTS-Pike project",
+    "link": "https://openai.com/index/openai-joins-ports-pike-project",
+    "fecha": "Mon, 17 Aug 2026 05:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "New policy ideas for the Intelligence Age",
     "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "fecha": "Mon, 17 Aug 2026 03:15:00 +0000",
@@ -465,18 +477,6 @@
     "titulo": "Introducing Cosmos 3 Edge",
     "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
     "fecha": "Mon, 20 Jul 2026 15:58:51 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Safety and alignment in an era of long-horizon models",
-    "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-    "fecha": "Mon, 20 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-    "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "fecha": "Fri, 17 Jul 2026 15:57:54 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
