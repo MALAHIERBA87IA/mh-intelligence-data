@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "fecha": "Mon, 17 Aug 2026 19:46:21 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Get closer to the game with Gemini and Pixel",
     "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "fecha": "Mon, 17 Aug 2026 08:00:00 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Grabette: an open system to record robot-manipulation data",
     "link": "https://huggingface.co/blog/grabette",
     "fecha": "Tue, 21 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Introducing Cosmos 3 Edge",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "fecha": "Mon, 20 Jul 2026 15:58:51 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
