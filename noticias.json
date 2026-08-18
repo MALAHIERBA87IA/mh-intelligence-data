@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Partnering with CodeAI to prepare the first AI generation",
+    "link": "https://openai.com/index/partnering-with-codeai",
+    "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "link": "https://openai.com/index/chatgpt-for-teens",
+    "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "fecha": "Mon, 17 Aug 2026 19:46:21 +0000",
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "fecha": "Tue, 21 Jul 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-    "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
-    "fecha": "Tue, 21 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Grabette: an open system to record robot-manipulation data",
-    "link": "https://huggingface.co/blog/grabette",
-    "fecha": "Tue, 21 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
