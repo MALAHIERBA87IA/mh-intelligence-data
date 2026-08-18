@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "How Much Memory Does Your Agent Actually Need?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "fecha": "Tue, 18 Aug 2026 18:09:38 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Partnering with CodeAI to prepare the first AI generation",
     "link": "https://openai.com/index/partnering-with-codeai",
     "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
@@ -10,6 +16,18 @@
     "link": "https://openai.com/index/chatgpt-for-teens",
     "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "link": "https://openai.com/index/asana",
+    "fecha": "Tue, 18 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "link": "https://huggingface.co/blog/multi-vector-encoder",
+    "fecha": "Tue, 18 Aug 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
@@ -459,24 +477,6 @@
     "titulo": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
     "link": "https://openai.com/index/ntt-data",
     "fecha": "Wed, 22 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "The State of Simulation for Physical AI: An Overview",
-    "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "fecha": "Tue, 21 Jul 2026 20:00:27 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Introducing the ChatGPT for small business program",
-    "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-    "fecha": "Tue, 21 Jul 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-    "fecha": "Tue, 21 Jul 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
