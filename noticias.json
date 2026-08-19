@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "ChatGPT Ads expands across Europe",
+    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "fecha": "Tue, 18 Aug 2026 22:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Strengthening democratic oversight in national security",
     "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "fecha": "Tue, 18 Aug 2026 19:00:00 +0000",
@@ -472,11 +478,5 @@
     "link": "https://openai.com/index/how-news-organizations-are-using-ai",
     "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "3 Google updates from Galaxy Unpacked 2026",
-    "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
-    "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
