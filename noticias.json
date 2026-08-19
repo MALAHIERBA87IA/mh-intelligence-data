@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Offering Zero Data Retention for frontier models",
+    "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "fecha": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "link": "https://huggingface.co/blog/LiquidAI/qad",
+    "fecha": "Wed, 19 Aug 2026 13:48:49 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Replit expands access to software creation with GPT-5.6 Luna",
+    "link": "https://openai.com/index/replit",
+    "fecha": "Wed, 19 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "ChatGPT Ads expands across Europe",
     "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "fecha": "Tue, 18 Aug 2026 22:00:00 +0000",
@@ -459,24 +477,6 @@
     "titulo": "Launching Health in ChatGPT",
     "link": "https://openai.com/index/health-in-chatgpt",
     "fecha": "Thu, 23 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-    "link": "https://huggingface.co/blog/nunchaku-diffusers",
-    "fecha": "Thu, 23 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Building AI infrastructure with the Effingham County community",
-    "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How news organizations are using AI to advance their vital missions",
-    "link": "https://openai.com/index/how-news-organizations-are-using-ai",
-    "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
