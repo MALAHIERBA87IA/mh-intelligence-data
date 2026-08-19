@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Strengthening democratic oversight in national security",
+    "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "fecha": "Tue, 18 Aug 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How Much Memory Does Your Agent Actually Need?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "fecha": "Tue, 18 Aug 2026 18:09:38 +0000",
@@ -8,6 +14,12 @@
   {
     "titulo": "Partnering with CodeAI to prepare the first AI generation",
     "link": "https://openai.com/index/partnering-with-codeai",
+    "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Pacing model development in an era of cyber-critical capabilities",
+    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
     "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -21,6 +33,12 @@
     "titulo": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
     "link": "https://openai.com/index/asana",
     "fecha": "Tue, 18 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How NVIDIA scales expertise with ChatGPT Work",
+    "link": "https://openai.com/index/nvidia/chatgpt-work",
+    "fecha": "Tue, 18 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -460,23 +478,5 @@
     "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
     "fecha": "Wed, 22 Jul 2026 13:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "Advancing the next era of national science",
-    "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-    "fecha": "Wed, 22 Jul 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing OpenAI Presence",
-    "link": "https://openai.com/index/introducing-openai-presence",
-    "fecha": "Wed, 22 Jul 2026 05:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-    "link": "https://openai.com/index/ntt-data",
-    "fecha": "Wed, 22 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
