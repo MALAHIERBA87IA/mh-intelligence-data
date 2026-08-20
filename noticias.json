@@ -1,6 +1,18 @@
 [
   {
     "titulo": "Offering Zero Data Retention for frontier models",
+    "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "fecha": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "5 new ways to level up your learning with Search",
+    "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "fecha": "Wed, 19 Aug 2026 19:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Offering Zero Data Retention for frontier models",
     "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
     "fecha": "Wed, 19 Aug 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
@@ -465,18 +477,6 @@
     "titulo": "How AI is expanding what people do at work",
     "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "fecha": "Mon, 27 Jul 2026 03:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "fecha": "Mon, 27 Jul 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Launching Health in ChatGPT",
-    "link": "https://openai.com/index/health-in-chatgpt",
-    "fecha": "Thu, 23 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
