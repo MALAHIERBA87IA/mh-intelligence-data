@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Measuring benchmark optimization in speech recognition",
+    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "fecha": "Fri, 21 Aug 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
     "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
     "fecha": "Thu, 20 Aug 2026 16:52:57 +0000",
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
     "fecha": "Tue, 28 Jul 2026 15:01:45 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "5 ways AI Mode in Search helps you enjoy the real world",
-    "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "fecha": "Tue, 28 Jul 2026 13:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
