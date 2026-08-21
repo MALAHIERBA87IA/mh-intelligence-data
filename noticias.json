@@ -6,7 +6,13 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "How ChatGPT Work helps Stampli move ideas to market",
+    "titulo": "Introducing AI Futures",
+    "link": "https://openai.com/index/introducing-ai-futures",
+    "fecha": "Thu, 20 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Stampli cuts launch hours by 68% using ChatGPT Work",
     "link": "https://openai.com/index/stampli",
     "fecha": "Thu, 20 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
@@ -470,12 +476,6 @@
   {
     "titulo": "5 ways AI Mode in Search helps you enjoy the real world",
     "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-    "fecha": "Tue, 28 Jul 2026 13:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "5 ways to host the ultimate dinner party with Google Search",
-    "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
     "fecha": "Tue, 28 Jul 2026 13:00:00 +0000",
     "fuente": "Google AI"
   }
