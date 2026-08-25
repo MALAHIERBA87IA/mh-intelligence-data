@@ -1,13 +1,43 @@
 [
   {
+    "titulo": "5 ways to upgrade your home decor with Google Search",
+    "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "fecha": "Tue, 25 Aug 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Granite 4.2 LLMs: How They're Built",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "fecha": "Tue, 25 Aug 2026 15:14:14 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "fecha": "Tue, 25 Aug 2026 11:39:24 +0000",
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "The full stack behind abundant intelligence",
+    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "fecha": "Tue, 25 Aug 2026 07:05:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "link": "https://openai.com/index/jalapeno-first-results",
+    "fecha": "Tue, 25 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Disrupting a new covert influence campaign from Russia",
     "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "fecha": "Tue, 25 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "link": "https://openai.com/index/introducing-admin-plugin",
     "fecha": "Tue, 25 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -447,36 +477,6 @@
     "titulo": "Disrupting a Criminal Scam Operation",
     "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "fecha": "Fri, 31 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "fecha": "Thu, 30 Jul 2026 15:09:09 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Advancing the price-performance frontier with GPT-5.6",
-    "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "fecha": "Thu, 30 Jul 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-    "link": "https://openai.com/index/avatarin",
-    "fecha": "Thu, 30 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-    "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-    "fecha": "Wed, 29 Jul 2026 15:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-    "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-    "fecha": "Wed, 29 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
