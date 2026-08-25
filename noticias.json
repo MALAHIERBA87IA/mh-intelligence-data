@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "link": "https://openai.com/index/gpt-5-6-in-kiro",
+    "fecha": "Mon, 24 Aug 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Measuring benchmark optimization in speech recognition",
     "link": "https://huggingface.co/blog/asr-benchmark-optimization",
     "fecha": "Fri, 21 Aug 2026 00:00:00 +0000",
@@ -472,11 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
     "fecha": "Tue, 28 Jul 2026 16:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "fecha": "Tue, 28 Jul 2026 15:01:45 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
