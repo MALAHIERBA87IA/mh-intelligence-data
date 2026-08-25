@@ -1,9 +1,33 @@
 [
   {
+    "titulo": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "fecha": "Tue, 25 Aug 2026 11:39:24 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Disrupting a new covert influence campaign from Russia",
+    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "fecha": "Tue, 25 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "link": "https://huggingface.co/blog/gradio-workflow-guide",
+    "fecha": "Tue, 25 Aug 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
     "link": "https://openai.com/index/gpt-5-6-in-kiro",
     "fecha": "Mon, 24 Aug 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "link": "https://huggingface.co/blog/pwc-search",
+    "fecha": "Fri, 21 Aug 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "Measuring benchmark optimization in speech recognition",
@@ -454,29 +478,5 @@
     "link": "https://openai.com/index/chatgpt-for-academic-researchers",
     "fecha": "Wed, 29 Jul 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-    "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-    "fecha": "Wed, 29 Jul 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Scientific computing in the age of agentic AI",
-    "link": "https://openai.com/index/scientific-computing-agentic-ai",
-    "fecha": "Tue, 28 Jul 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-    "fecha": "Tue, 28 Jul 2026 16:27:42 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-    "fecha": "Tue, 28 Jul 2026 16:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
