@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "How loveholidays is making everyone a builder with Codex",
+    "link": "https://openai.com/index/loveholidays",
+    "fecha": "Wed, 26 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "5 ways to upgrade your home decor with Google Search",
     "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
     "fecha": "Tue, 25 Aug 2026 16:00:00 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Univé builds an AI-ready workforce",
     "link": "https://openai.com/index/unive",
     "fecha": "Fri, 31 Jul 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Disrupting a Criminal Scam Operation",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "fecha": "Fri, 31 Jul 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
