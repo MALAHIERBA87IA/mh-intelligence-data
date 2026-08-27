@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Expanding OpenAI’s presence in Brazil",
+    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "fecha": "Thu, 27 Aug 2026 03:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
@@ -9,6 +15,12 @@
     "titulo": "Learning never stops: How AI makes learning continuous",
     "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "The Hugging Face incident and the road ahead",
+    "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "fecha": "Wed, 26 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -96,8 +108,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing AI Futures",
+    "titulo": "Introducing Intelligence Age",
     "link": "https://openai.com/index/introducing-ai-futures",
+    "fecha": "Thu, 20 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing Intelligence Age",
+    "link": "https://openai.com/index/introducing-intelligence-age",
     "fecha": "Thu, 20 Aug 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
     "fecha": "Mon, 03 Aug 2026 15:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "How we built a realtime system for responsive voice AI in six months",
-    "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "fecha": "Mon, 03 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Circles powers telco personalization with OpenAI technology",
-    "link": "https://openai.com/index/circles",
-    "fecha": "Mon, 03 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Ten advances in mathematics and theoretical computer science",
-    "link": "https://openai.com/index/ten-advances-in-mathematics",
-    "fecha": "Sat, 01 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
