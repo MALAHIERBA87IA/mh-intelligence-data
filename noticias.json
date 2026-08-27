@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "3 new ways to plan and book travel in Search",
+    "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "fecha": "Thu, 27 Aug 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "fecha": "Thu, 27 Aug 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Expanding OpenAI’s presence in Brazil",
     "link": "https://openai.com/index/expanding-our-presence-in-brazil",
     "fecha": "Thu, 27 Aug 2026 03:00:00 +0000",
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "fecha": "Tue, 04 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Apple is getting this wrong",
-    "link": "https://openai.com/index/apple-is-getting-this-wrong",
-    "fecha": "Mon, 03 Aug 2026 22:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Inside our 353,000-person vibe coding course",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "fecha": "Mon, 03 Aug 2026 15:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
