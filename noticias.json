@@ -6,6 +6,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "fecha": "Fri, 28 Aug 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "3 new ways to plan and book travel in Search",
     "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
     "fecha": "Thu, 27 Aug 2026 16:00:00 +0000",
@@ -24,14 +30,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -396,12 +402,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Premium seats are coming to ChatGPT Business",
-    "link": "https://openai.com/index/premium-seats-chatgpt-business",
-    "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
@@ -410,6 +410,12 @@
   {
     "titulo": "How Zapier transformed core marketing processes with ChatGPT Work",
     "link": "https://openai.com/index/zapier",
+    "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Premium seats are coming to ChatGPT Business",
+    "link": "https://openai.com/index/premium-seats-chatgpt-business",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "fecha": "Tue, 04 Aug 2026 13:58:29 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "The latest AI news we announced in July 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "fecha": "Tue, 04 Aug 2026 13:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
