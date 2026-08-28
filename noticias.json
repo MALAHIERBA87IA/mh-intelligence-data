@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Supporting Thailand’s next generation of AI startups",
+    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "fecha": "Fri, 28 Aug 2026 02:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "3 new ways to plan and book travel in Search",
     "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
     "fecha": "Thu, 27 Aug 2026 16:00:00 +0000",
@@ -472,11 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
     "fecha": "Tue, 04 Aug 2026 13:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "New ways to learn and teach with ChatGPT Work and Codex",
-    "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "fecha": "Tue, 04 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
