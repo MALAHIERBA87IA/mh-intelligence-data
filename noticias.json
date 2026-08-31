@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "A milestone in expanding access to AI",
+    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "fecha": "Mon, 31 Aug 2026 04:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Our decision on Cursor following its acquisition by SpaceX",
     "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "fecha": "Fri, 28 Aug 2026 06:00:00 +0000",
@@ -408,14 +414,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How Zapier transformed core marketing processes with ChatGPT Work",
-    "link": "https://openai.com/index/zapier",
+    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "titulo": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "link": "https://openai.com/index/zapier",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/baseten",
     "fecha": "Thu, 06 Aug 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Third-party cyber evaluations involving OpenAI models",
-    "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "fecha": "Tue, 04 Aug 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
