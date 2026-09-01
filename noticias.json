@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "OpenAI supports California’s bill to advance youth AI safety",
+    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "fecha": "Mon, 31 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Polimill builds Japan's next-generation public AI infrastructure",
+    "link": "https://openai.com/index/polimill",
+    "fecha": "Mon, 31 Aug 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "A milestone in expanding access to AI",
     "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "fecha": "Mon, 31 Aug 2026 04:00:00 +0000",
@@ -42,14 +54,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -402,20 +414,20 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Putting frontier cyber models in more trusted hands",
     "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Premium seats are coming to ChatGPT Business",
+    "link": "https://openai.com/index/premium-seats-chatgpt-business",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -426,8 +438,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Premium seats are coming to ChatGPT Business",
-    "link": "https://openai.com/index/premium-seats-chatgpt-business",
+    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
     "fecha": "Thu, 06 Aug 2026 06:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "From asking to doing: How the world is putting ChatGPT to work",
-    "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "fecha": "Thu, 06 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Baseten on Hugging Face Inference Providers 🔥",
-    "link": "https://huggingface.co/blog/baseten",
-    "fecha": "Thu, 06 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
