@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "How AI-native companies turn workflows into operating capability",
+    "link": "https://openai.com/index/ai-native-company-workflows",
+    "fecha": "Tue, 01 Sep 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "fecha": "Tue, 01 Sep 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Path to Astra: critical capabilities and frontier safeguards",
+    "link": "https://openai.com/index/path-to-astra",
+    "fecha": "Tue, 01 Sep 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "fecha": "Tue, 01 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
     "link": "https://huggingface.co/blog/webgpu-kernels",
     "fecha": "Tue, 01 Sep 2026 00:00:00 +0000",
@@ -372,14 +396,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Daybreak models are now available on AWS",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "titulo": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
     "fecha": "Tue, 11 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "titulo": "Daybreak models are now available on AWS",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "fecha": "Tue, 11 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -432,8 +456,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Premium seats are coming to ChatGPT Business",
-    "link": "https://openai.com/index/premium-seats-chatgpt-business",
+    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -444,8 +468,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "titulo": "Premium seats are coming to ChatGPT Business",
+    "link": "https://openai.com/index/premium-seats-chatgpt-business",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -454,29 +478,5 @@
     "link": "https://huggingface.co/blog/muse-glimmer",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "link": "https://huggingface.co/blog/allenai/tutormoments",
-    "fecha": "Fri, 07 Aug 2026 17:53:32 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Responding to the next frontier of critical cyber capabilities",
-    "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "fecha": "Fri, 07 Aug 2026 15:20:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How HSP GRUPPE builds AI capabilities for tax advisory",
-    "link": "https://openai.com/index/hsp-gruppe",
-    "fecha": "Fri, 07 Aug 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-    "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-    "fecha": "Thu, 06 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
