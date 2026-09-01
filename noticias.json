@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "link": "https://huggingface.co/blog/webgpu-kernels",
+    "fecha": "Tue, 01 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "OpenAI supports California’s bill to advance youth AI safety",
     "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "fecha": "Mon, 31 Aug 2026 07:00:00 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "fecha": "Thu, 06 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Working with the American Psychological Association on youth mental health and AI",
-    "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "fecha": "Thu, 06 Aug 2026 06:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
