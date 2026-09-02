@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Proactive cyber defense for governments and enterprises",
+    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "fecha": "Wed, 02 Sep 2026 15:40:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "Real-Time Intelligence with IBM Time Series Models on Confluent",
     "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
     "fecha": "Wed, 02 Sep 2026 13:49:14 +0000",
@@ -470,12 +476,6 @@
   {
     "titulo": "Putting frontier cyber models in more trusted hands",
     "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Expanding Daybreak as the Cyber Defense Window Narrows",
-    "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   }
