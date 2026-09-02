@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "link": "https://huggingface.co/blog/allenai/benchmirt",
+    "fecha": "Tue, 01 Sep 2026 21:39:07 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "The latest AI news we announced in August 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "fecha": "Tue, 01 Sep 2026 20:45:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "How AI-native companies turn workflows into operating capability",
     "link": "https://openai.com/index/ai-native-company-workflows",
     "fecha": "Tue, 01 Sep 2026 17:00:00 +0000",
@@ -21,6 +33,12 @@
     "titulo": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
     "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "fecha": "Tue, 01 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "link": "https://openai.com/index/gilbert-tobin",
+    "fecha": "Tue, 01 Sep 2026 01:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -84,14 +102,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -396,14 +414,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
+    "titulo": "Daybreak models are now available on AWS",
+    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "fecha": "Tue, 11 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Daybreak models are now available on AWS",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "titulo": "Testing ads in ChatGPT",
+    "link": "https://openai.com/index/testing-ads-in-chatgpt",
     "fecha": "Tue, 11 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -456,27 +474,9 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-    "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "How Zapier transformed core marketing processes with ChatGPT Work",
     "link": "https://openai.com/index/zapier",
     "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Premium seats are coming to ChatGPT Business",
-    "link": "https://openai.com/index/premium-seats-chatgpt-business",
-    "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-    "link": "https://huggingface.co/blog/muse-glimmer",
-    "fecha": "Mon, 10 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
