@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "link": "https://huggingface.co/blog/Hcompany/neomme",
+    "fecha": "Thu, 03 Sep 2026 13:13:48 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Give Your Coding Agents a Memory You Own",
+    "link": "https://huggingface.co/blog/funes",
+    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "link": "https://huggingface.co/blog/train-to-paint-with-code",
+    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Proactive cyber defense for governments and enterprises",
     "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
     "fecha": "Wed, 02 Sep 2026 15:40:00 +0000",
@@ -453,30 +477,6 @@
     "titulo": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "fecha": "Mon, 10 Aug 2026 16:25:36 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Evolve your marketing with new AI tools",
-    "link": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "fecha": "Mon, 10 Aug 2026 14:30:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-    "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-    "fecha": "Mon, 10 Aug 2026 14:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-    "link": "https://openai.com/index/model-ml",
-    "fecha": "Mon, 10 Aug 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "fecha": "Mon, 10 Aug 2026 10:05:36 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
