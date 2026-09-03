@@ -12,6 +12,12 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "link": "https://openai.com/index/atv-big-air-tour",
+    "fecha": "Wed, 02 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "link": "https://huggingface.co/blog/allenai/benchmirt",
     "fecha": "Tue, 01 Sep 2026 21:39:07 +0000",
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "fecha": "Mon, 10 Aug 2026 10:05:36 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Putting frontier cyber models in more trusted hands",
-    "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "fecha": "Mon, 10 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
