@@ -1,9 +1,33 @@
 [
   {
+    "titulo": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "fecha": "Thu, 03 Sep 2026 13:15:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "fecha": "Thu, 03 Sep 2026 13:13:48 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Safety overview: GPT-6 Astra",
+    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
@@ -453,30 +477,6 @@
     "titulo": "Thinking of ACE? We Can Do It with Fewer Tokens",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
     "fecha": "Tue, 11 Aug 2026 13:37:10 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Daybreak models are now available on AWS",
-    "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "fecha": "Tue, 11 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Testing ads in ChatGPT",
-    "link": "https://openai.com/index/testing-ads-in-chatgpt",
-    "fecha": "Tue, 11 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "What building an AI-native finance function taught me",
-    "link": "https://openai.com/index/building-an-ai-native-finance-function",
-    "fecha": "Mon, 10 Aug 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-    "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "fecha": "Mon, 10 Aug 2026 16:25:36 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
