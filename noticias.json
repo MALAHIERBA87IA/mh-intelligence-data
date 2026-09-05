@@ -24,6 +24,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "GPT-6 Astra: A new generation of intelligence",
+    "link": "https://openai.com/index/gpt-6-astra",
+    "fecha": "Thu, 03 Sep 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Safety overview: GPT-6 Astra",
     "link": "https://openai.com/index/safety-overview-gpt-6-astra",
     "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
@@ -168,14 +174,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
     "fecha": "Tue, 11 Aug 2026 17:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "fecha": "Tue, 11 Aug 2026 13:37:10 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
