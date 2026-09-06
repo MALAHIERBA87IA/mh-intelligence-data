@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "An Alien Mind",
+    "link": "https://openai.com/index/an-alien-mind",
+    "fecha": "Sun, 06 Sep 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Research acceleration: The view inside OpenAI",
+    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "fecha": "Sun, 06 Sep 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Daybreak for Frontline Defenders: $1B to protect essential services",
     "link": "https://openai.com/index/daybreak-for-frontline-defenders",
     "fecha": "Thu, 03 Sep 2026 13:15:00 +0000",
@@ -12,14 +24,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -174,14 +186,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "fecha": "Wed, 12 Aug 2026 06:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How RingCentral builds AI-native work from engineering to ops",
-    "link": "https://openai.com/index/ringcentral",
-    "fecha": "Wed, 12 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "fecha": "Tue, 11 Aug 2026 17:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
