@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "fecha": "Tue, 08 Sep 2026 14:23:07 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "The Work Now Within Reach",
+    "link": "https://openai.com/index/the-work-now-within-reach",
+    "fecha": "Tue, 08 Sep 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "fecha": "Tue, 08 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Supporting independent journalism in Ukraine",
     "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "fecha": "Mon, 07 Sep 2026 00:00:00 +0000",
@@ -30,14 +48,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -192,14 +210,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
     "fecha": "Thu, 13 Aug 2026 09:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "What We Learned by Reproducing 2,200 papers from ICML",
-    "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "fecha": "Thu, 13 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "fecha": "Wed, 12 Aug 2026 16:14:36 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "fecha": "Wed, 12 Aug 2026 14:00:51 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
