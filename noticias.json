@@ -1,5 +1,41 @@
 [
   {
+    "titulo": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "fecha": "Thu, 10 Sep 2026 16:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "3 ways to prep for your next big race with Search",
+    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "fecha": "Thu, 10 Sep 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Now everyone can put data to work",
+    "link": "https://openai.com/index/put-data-to-work",
+    "fecha": "Thu, 10 Sep 2026 15:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing ChatGPT for Financial Services",
+    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "link": "https://openai.com/index/expanding-ai-access-us-government",
+    "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "link": "https://huggingface.co/blog/gradio-workflow-1111",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
@@ -120,14 +156,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -441,42 +477,6 @@
     "titulo": "Strengthening democratic oversight in national security",
     "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "fecha": "Tue, 18 Aug 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Much Memory Does Your Agent Actually Need?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "fecha": "Tue, 18 Aug 2026 18:09:38 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Partnering with CodeAI to prepare the first AI generation",
-    "link": "https://openai.com/index/partnering-with-codeai",
-    "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Pacing model development in an era of cyber-critical capabilities",
-    "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "link": "https://openai.com/index/chatgpt-for-teens",
-    "fecha": "Tue, 18 Aug 2026 11:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "link": "https://openai.com/index/asana",
-    "fecha": "Tue, 18 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How NVIDIA scales expertise with ChatGPT Work",
-    "link": "https://openai.com/index/nvidia/chatgpt-work",
-    "fecha": "Tue, 18 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
