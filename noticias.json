@@ -24,6 +24,18 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "The AI policy window is open. We need to act.",
+    "link": "https://openai.com/index/ai-policy-window",
+    "fecha": "Wed, 09 Sep 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "GPT-6 Astra: The next generation in intelligence for work",
+    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "fecha": "Wed, 09 Sep 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How GPT-5.6 Sol helps run quantum computing experiments",
     "link": "https://openai.com/index/codex-quantum-computing-experiments",
     "fecha": "Tue, 08 Sep 2026 17:00:00 +0000",
@@ -102,14 +114,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -264,14 +276,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://huggingface.co/blog/multi-vector-encoder",
     "fecha": "Tue, 18 Aug 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-    "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "fecha": "Mon, 17 Aug 2026 19:46:21 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Get closer to the game with Gemini and Pixel",
-    "link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "fecha": "Mon, 17 Aug 2026 08:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
