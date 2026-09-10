@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+    "link": "https://huggingface.co/blog/gradio-workflow-1111",
+    "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Paul Christiano joins OpenAI Foundation Board",
     "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
     "fecha": "Wed, 09 Sep 2026 17:00:00 +0000",
@@ -472,11 +478,5 @@
     "link": "https://openai.com/index/nvidia/chatgpt-work",
     "fecha": "Tue, 18 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/multi-vector-encoder",
-    "fecha": "Tue, 18 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
