@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "fecha": "Fri, 11 Sep 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "fecha": "Thu, 10 Sep 2026 16:00:00 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Replit expands access to software creation with GPT-5.6 Luna",
     "link": "https://openai.com/index/replit",
     "fecha": "Wed, 19 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "ChatGPT Ads expands across Europe",
-    "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "fecha": "Tue, 18 Aug 2026 22:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
