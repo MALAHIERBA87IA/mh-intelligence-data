@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "fecha": "Mon, 14 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "fecha": "Fri, 11 Sep 2026 16:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "fecha": "Fri, 11 Sep 2026 10:00:00 +0000",
@@ -330,14 +342,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Offering Zero Data Retention for frontier models",
     "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
     "fecha": "Wed, 19 Aug 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "link": "https://huggingface.co/blog/LiquidAI/qad",
-    "fecha": "Wed, 19 Aug 2026 13:48:49 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Replit expands access to software creation with GPT-5.6 Luna",
-    "link": "https://openai.com/index/replit",
-    "fecha": "Wed, 19 Aug 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
