@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "fecha": "Mon, 14 Sep 2026 19:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "DevFest is back",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
     "fecha": "Mon, 14 Sep 2026 16:00:00 +0000",
@@ -60,14 +66,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "titulo": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "Introducing Intelligence Age",
     "link": "https://openai.com/index/introducing-ai-futures",
     "fecha": "Thu, 20 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "link": "https://openai.com/index/stampli",
-    "fecha": "Thu, 20 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
