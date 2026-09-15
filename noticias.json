@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Your Agent Aced the Task. Will It Do It Again?",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "fecha": "Tue, 15 Sep 2026 16:00:44 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "AI for Societal Impact",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Building AI to accelerate science and improve lives",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "AI for everyone in every language",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "New insights from Google’s AI & Economy ATLAS",
     "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
     "fecha": "Tue, 15 Sep 2026 13:00:00 +0000",
@@ -372,14 +396,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -453,30 +477,6 @@
     "titulo": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
     "link": "https://openai.com/index/gpt-5-6-in-kiro",
     "fecha": "Mon, 24 Aug 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "link": "https://huggingface.co/blog/pwc-search",
-    "fecha": "Fri, 21 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Measuring benchmark optimization in speech recognition",
-    "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-    "fecha": "Fri, 21 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "fecha": "Thu, 20 Aug 2026 16:52:57 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Introducing Intelligence Age",
-    "link": "https://openai.com/index/introducing-intelligence-age",
-    "fecha": "Thu, 20 Aug 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
