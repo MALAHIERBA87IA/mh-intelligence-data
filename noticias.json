@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "New insights from Google’s AI & Economy ATLAS",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "fecha": "Tue, 15 Sep 2026 13:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
     "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
     "fecha": "Mon, 14 Sep 2026 19:00:00 +0000",
@@ -470,12 +476,6 @@
   {
     "titulo": "Introducing Intelligence Age",
     "link": "https://openai.com/index/introducing-intelligence-age",
-    "fecha": "Thu, 20 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing Intelligence Age",
-    "link": "https://openai.com/index/introducing-ai-futures",
     "fecha": "Thu, 20 Aug 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
