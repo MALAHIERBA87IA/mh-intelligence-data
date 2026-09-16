@@ -12,6 +12,18 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "How to connect AI usage to business value",
+    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "fecha": "Wed, 16 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How workers are unlocking new ways of working",
+    "link": "https://openai.com/index/unlocking-new-ways-of-working",
+    "fecha": "Wed, 16 Sep 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Your Agent Aced the Task. Will It Do It Again?",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "fecha": "Tue, 15 Sep 2026 16:00:44 +0000",
@@ -108,14 +120,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "titulo": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -246,14 +258,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -408,14 +420,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
     "link": "https://openai.com/index/jalapeno-first-results",
     "fecha": "Tue, 25 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Disrupting a new covert influence campaign from Russia",
-    "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "fecha": "Tue, 25 Aug 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing the Admin plugin for ChatGPT Work and Codex",
-    "link": "https://openai.com/index/introducing-admin-plugin",
-    "fecha": "Tue, 25 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
