@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Making global data easier to explore",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "fecha": "Thu, 17 Sep 2026 20:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Introducing Astra for Law",
+    "link": "https://openai.com/index/astra-for-law",
+    "fecha": "Thu, 17 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Our framework for reporting model misalignment",
     "link": "https://openai.com/index/model-misalignment-reporting-framework",
     "fecha": "Wed, 16 Sep 2026 17:00:00 +0000",
@@ -126,14 +138,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "titulo": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -426,14 +438,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
+    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "titulo": "Learning never stops: How AI makes learning continuous",
+    "link": "https://openai.com/index/learning-never-stops",
     "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "fecha": "Tue, 25 Aug 2026 15:14:14 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "fecha": "Tue, 25 Aug 2026 11:39:24 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "The full stack behind abundant intelligence",
-    "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "fecha": "Tue, 25 Aug 2026 07:05:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
