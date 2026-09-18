@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "New experts join Google’s AI & Economy team",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "fecha": "Fri, 18 Sep 2026 14:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Co-creating the future of fashion with Google",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "fecha": "Fri, 18 Sep 2026 13:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "Making global data easier to explore",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
     "fecha": "Thu, 17 Sep 2026 20:00:00 +0000",
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/loveholidays",
     "fecha": "Wed, 26 Aug 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "fecha": "Wed, 26 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "5 ways to upgrade your home decor with Google Search",
-    "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "fecha": "Tue, 25 Aug 2026 16:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
