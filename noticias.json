@@ -6,6 +6,12 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "How Cooley is accelerating IPO work with ChatGPT",
+    "link": "https://openai.com/index/cooley-gopublic",
+    "fecha": "Thu, 17 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Introducing Astra for Law",
     "link": "https://openai.com/index/astra-for-law",
     "fecha": "Thu, 17 Sep 2026 00:00:00 +0000",
@@ -276,14 +282,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
     "fecha": "Tue, 25 Aug 2026 16:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "Granite 4.2 LLMs: How They're Built",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "fecha": "Tue, 25 Aug 2026 15:14:14 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
