@@ -6,6 +6,30 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Building standards for the next phase of AI",
+    "link": "https://openai.com/index/building-standards-next-phase-ai",
+    "fecha": "Mon, 21 Sep 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Expanding OpenAI Academy with new learning paths",
+    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "fecha": "Mon, 21 Sep 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How V7 gives AI agents institutional memory",
     "link": "https://openai.com/index/v7",
     "fecha": "Mon, 21 Sep 2026 00:00:00 +0000",
@@ -453,30 +477,6 @@
     "titulo": "Our decision on Cursor following its acquisition by SpaceX",
     "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "fecha": "Fri, 28 Aug 2026 06:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Supporting Thailand’s next generation of AI startups",
-    "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "fecha": "Fri, 28 Aug 2026 02:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "The Open ASR Leaderboard Adds Its First Global South Language",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "fecha": "Fri, 28 Aug 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "3 new ways to plan and book travel in Search",
-    "link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "fecha": "Thu, 27 Aug 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-    "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "fecha": "Thu, 27 Aug 2026 09:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
