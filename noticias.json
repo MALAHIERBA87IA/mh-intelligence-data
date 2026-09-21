@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "fecha": "Mon, 21 Sep 2026 13:44:34 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How V7 gives AI agents institutional memory",
+    "link": "https://openai.com/index/v7",
+    "fecha": "Mon, 21 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "tokenizers v1: encode, decode and scaling, measured",
+    "link": "https://huggingface.co/blog/tokenizers-v1",
+    "fecha": "Mon, 21 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "New experts join Google’s AI & Economy team",
     "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
     "fecha": "Fri, 18 Sep 2026 14:00:00 +0000",
@@ -459,24 +477,6 @@
     "titulo": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "link": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "fecha": "Thu, 27 Aug 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Expanding OpenAI’s presence in Brazil",
-    "link": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "fecha": "Thu, 27 Aug 2026 03:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Learning never stops: How AI makes learning continuous",
-    "link": "https://openai.com/index/learning-never-stops",
-    "fecha": "Wed, 26 Aug 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
