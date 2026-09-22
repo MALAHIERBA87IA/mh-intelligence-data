@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "link": "https://huggingface.co/blog/omlx",
+    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
     "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
     "fecha": "Mon, 21 Sep 2026 13:44:34 +0000",
@@ -471,12 +477,6 @@
     "titulo": "A milestone in expanding access to AI",
     "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "fecha": "Mon, 31 Aug 2026 04:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Our decision on Cursor following its acquisition by SpaceX",
-    "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "fecha": "Fri, 28 Aug 2026 06:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
