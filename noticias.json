@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Better prompt caching for GPT-6",
+    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "fecha": "Tue, 22 Sep 2026 21:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing GPT-6 Sol and Luna",
+    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "fecha": "Tue, 22 Sep 2026 18:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Priorities and principles for effective third party assessments",
+    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "link": "https://huggingface.co/blog/evaleval-aisi",
+    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Transformers now runs llama.cpp quants",
     "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
@@ -360,14 +384,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -453,30 +477,6 @@
     "titulo": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
     "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "fecha": "Tue, 01 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-    "link": "https://openai.com/index/gilbert-tobin",
-    "fecha": "Tue, 01 Sep 2026 01:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-    "link": "https://huggingface.co/blog/webgpu-kernels",
-    "fecha": "Tue, 01 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "OpenAI supports California’s bill to advance youth AI safety",
-    "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "fecha": "Mon, 31 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Polimill builds Japan's next-generation public AI infrastructure",
-    "link": "https://openai.com/index/polimill",
-    "fecha": "Mon, 31 Aug 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
