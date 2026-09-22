@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Transformers now runs llama.cpp quants",
+    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
     "link": "https://huggingface.co/blog/omlx",
     "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Polimill builds Japan's next-generation public AI infrastructure",
     "link": "https://openai.com/index/polimill",
     "fecha": "Mon, 31 Aug 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "A milestone in expanding access to AI",
-    "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "fecha": "Mon, 31 Aug 2026 04:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
