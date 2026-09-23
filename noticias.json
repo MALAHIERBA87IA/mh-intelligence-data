@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "fecha": "Wed, 23 Sep 2026 18:41:40 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Google Beam expands with new regions, partners, and customers",
+    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "fecha": "Wed, 23 Sep 2026 18:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "Two years of OpenAI Academy",
     "link": "https://openai.com/index/two-years-of-openai-academy",
     "fecha": "Wed, 23 Sep 2026 16:00:00 +0000",
@@ -15,6 +27,30 @@
     "titulo": "OpenAI extends cyber access to Ukraine for civilian defense",
     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "fecha": "Wed, 23 Sep 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing MentalHealthBench",
+    "link": "https://openai.com/index/introducing-mentalhealthbench",
+    "fecha": "Wed, 23 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -441,42 +477,6 @@
     "titulo": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
     "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Give Your Coding Agents a Memory You Own",
-    "link": "https://huggingface.co/blog/funes",
-    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Training a coding model to paint watercolours with TRL and OpenEnv",
-    "link": "https://huggingface.co/blog/train-to-paint-with-code",
-    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Proactive cyber defense for governments and enterprises",
-    "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "fecha": "Wed, 02 Sep 2026 15:40:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-    "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "fecha": "Wed, 02 Sep 2026 13:49:14 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-    "link": "https://openai.com/index/atv-big-air-tour",
-    "fecha": "Wed, 02 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "BenchMIRT: What are LLM benchmarks actually measuring?",
-    "link": "https://huggingface.co/blog/allenai/benchmirt",
-    "fecha": "Tue, 01 Sep 2026 21:39:07 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
