@@ -12,6 +12,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "fecha": "Tue, 22 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Priorities and principles for effective third party assessments",
     "link": "https://openai.com/index/priorities-principles-third-party-assessments",
     "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
@@ -42,14 +48,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -384,14 +390,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "Path to Astra: critical capabilities and frontier safeguards",
     "link": "https://openai.com/index/path-to-astra",
     "fecha": "Tue, 01 Sep 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-    "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "fecha": "Tue, 01 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
