@@ -30,6 +30,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
@@ -51,6 +57,18 @@
     "titulo": "Introducing MentalHealthBench",
     "link": "https://openai.com/index/introducing-mentalhealthbench",
     "fecha": "Wed, 23 Sep 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "fecha": "Wed, 23 Sep 2026 02:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+    "link": "https://openai.com/index/airbnb-gpt-6-astra",
+    "fecha": "Wed, 23 Sep 2026 01:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -312,14 +330,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "titulo": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -450,33 +468,15 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "link": "https://openai.com/index/playco-game-prototyping-with-astra",
     "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "GPT-6 Astra: A new generation of intelligence",
-    "link": "https://openai.com/index/gpt-6-astra",
-    "fecha": "Thu, 03 Sep 2026 11:00:00 +0000",
+    "titulo": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Safety overview: GPT-6 Astra",
-    "link": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-    "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "fecha": "Thu, 03 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
