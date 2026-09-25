@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "link": "https://openai.com/index/proaction",
+    "fecha": "Fri, 25 Sep 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Accelerating vision-language models with LFM2.5-VL-DSpark",
     "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
     "fecha": "Thu, 24 Sep 2026 14:08:57 +0000",
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/Hcompany/neomme",
     "fecha": "Thu, 03 Sep 2026 13:13:48 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "fecha": "Thu, 03 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
