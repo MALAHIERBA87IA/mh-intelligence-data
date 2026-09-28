@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Holo4: powering generalist computer-use agents",
+    "link": "https://huggingface.co/blog/Hcompany/holo4",
+    "fecha": "Mon, 28 Sep 2026 09:44:05 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "fecha": "Mon, 28 Sep 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "link": "https://openai.com/index/proaction",
     "fecha": "Fri, 25 Sep 2026 19:00:00 +0000",
@@ -42,12 +54,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
@@ -62,6 +68,12 @@
   {
     "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "link": "https://openai.com/index/ringg",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -342,14 +354,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "titulo": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -426,6 +438,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+    "fecha": "Tue, 08 Sep 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "On the Navier–Stokes Millennium Prize Problem",
     "link": "https://openai.com/index/navier-stokes-solution",
     "fecha": "Tue, 08 Sep 2026 10:00:00 +0000",
@@ -435,12 +453,6 @@
     "titulo": "Funding grants for new research into AI and teen development",
     "link": "https://openai.com/index/teen-development-research-grants",
     "fecha": "Tue, 08 Sep 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-    "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-    "fecha": "Tue, 08 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/research-acceleration-view-inside-openai",
     "fecha": "Sun, 06 Sep 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Daybreak for Frontline Defenders: $1B to protect essential services",
-    "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-    "fecha": "Thu, 03 Sep 2026 13:15:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-    "link": "https://huggingface.co/blog/Hcompany/neomme",
-    "fecha": "Thu, 03 Sep 2026 13:13:48 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
