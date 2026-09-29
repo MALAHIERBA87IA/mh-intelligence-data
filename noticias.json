@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "Holo4: powering generalist computer-use agents",
     "link": "https://huggingface.co/blog/Hcompany/holo4",
     "fecha": "Mon, 28 Sep 2026 09:44:05 +0000",
@@ -9,6 +27,18 @@
     "titulo": "The Lenfest Institute grows landmark program with expanded OpenAI support",
     "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
     "fecha": "Mon, 28 Sep 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
+    "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -60,14 +90,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -447,36 +477,6 @@
     "titulo": "On the Navier–Stokes Millennium Prize Problem",
     "link": "https://openai.com/index/navier-stokes-solution",
     "fecha": "Tue, 08 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Funding grants for new research into AI and teen development",
-    "link": "https://openai.com/index/teen-development-research-grants",
-    "fecha": "Tue, 08 Sep 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "1Password increases engineering productivity 21% with Codex",
-    "link": "https://openai.com/index/1password",
-    "fecha": "Tue, 08 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Supporting independent journalism in Ukraine",
-    "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-    "fecha": "Mon, 07 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "An Alien Mind",
-    "link": "https://openai.com/index/an-alien-mind",
-    "fecha": "Sun, 06 Sep 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Research acceleration: The view inside OpenAI",
-    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "fecha": "Sun, 06 Sep 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
