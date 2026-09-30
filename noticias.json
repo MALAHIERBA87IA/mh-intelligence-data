@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Helping small businesses put AI to work",
+    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "fecha": "Wed, 30 Sep 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+    "link": "https://huggingface.co/blog/open-tts-leaderboard",
+    "fecha": "Wed, 30 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
     "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
     "fecha": "Tue, 29 Sep 2026 15:30:38 +0000",
@@ -12,14 +24,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "titulo": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -60,14 +72,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -120,14 +132,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -414,14 +426,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "titulo": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "The AI policy window is open. We need to act.",
     "link": "https://openai.com/index/ai-policy-window",
     "fecha": "Wed, 09 Sep 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-6 Astra: The next generation in intelligence for work",
-    "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-    "fecha": "Wed, 09 Sep 2026 11:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How GPT-5.6 Sol helps run quantum computing experiments",
-    "link": "https://openai.com/index/codex-quantum-computing-experiments",
-    "fecha": "Tue, 08 Sep 2026 17:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
