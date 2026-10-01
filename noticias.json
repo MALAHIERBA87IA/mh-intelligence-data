@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "The eternal complement",
+    "link": "https://openai.com/index/the-eternal-complement",
+    "fecha": "Thu, 01 Oct 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Albertsons Companies is reimagining retail from the inside out",
+    "link": "https://openai.com/index/albertsons-reimagining-retail",
+    "fecha": "Thu, 01 Oct 2026 16:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+    "link": "https://huggingface.co/blog/allenai/olmocore3",
+    "fecha": "Thu, 01 Oct 2026 15:01:43 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Disrupting a coordinated model-distillation campaign",
     "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
     "fecha": "Wed, 30 Sep 2026 10:30:00 +0000",
@@ -30,14 +48,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "titulo": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -48,14 +66,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -132,12 +150,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
@@ -152,6 +164,12 @@
   {
     "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -432,14 +450,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "titulo": "Introducing the Agents API",
+    "link": "https://openai.com/index/introducing-the-agents-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
+    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
     "fecha": "Wed, 09 Sep 2026 17:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Get ready for the game with new football features in Search",
-    "link": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
-    "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Recreating a 70-year love story frame by frame",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "fecha": "Wed, 09 Sep 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "fecha": "Wed, 09 Sep 2026 15:36:24 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
