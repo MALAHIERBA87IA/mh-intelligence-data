@@ -24,6 +24,12 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Chatham scales its capital markets expertise with OpenAI",
+    "link": "https://openai.com/index/chatham-financial",
+    "fecha": "Fri, 02 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "The eternal complement",
     "link": "https://openai.com/index/the-eternal-complement",
     "fecha": "Thu, 01 Oct 2026 17:00:00 +0000",
@@ -78,14 +84,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "titulo": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -96,14 +102,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -126,14 +132,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -192,14 +198,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -470,12 +476,6 @@
   {
     "titulo": "Introducing ChatGPT for Financial Services",
     "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-    "link": "https://openai.com/index/expanding-ai-access-us-government",
     "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
