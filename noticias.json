@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "A model guide for the GPT-6 family",
+    "link": "https://openai.com/index/practical-guide-building-gpt-6",
+    "fecha": "Fri, 02 Oct 2026 16:15:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "link": "https://huggingface.co/blog/allenai/astabrief",
+    "fecha": "Fri, 02 Oct 2026 15:19:50 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "The latest AI news we announced in September 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "fecha": "Fri, 02 Oct 2026 15:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "AutoSynthData: Generating Training Data for Enterprise Agents",
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "fecha": "Fri, 02 Oct 2026 04:01:31 +0000",
@@ -78,14 +96,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -162,26 +180,26 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Sam Altman’s remarks at the United Nations Security Council",
     "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://openai.com/index/expanding-ai-access-us-government",
     "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing the Agents API",
-    "link": "https://openai.com/index/introducing-the-agents-api",
-    "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-    "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "fecha": "Thu, 10 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
