@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "The Agent Said It Was Done. The Database Disagreed.",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "fecha": "Sat, 03 Oct 2026 22:56:48 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "A model guide for the GPT-6 family",
     "link": "https://openai.com/index/practical-guide-building-gpt-6",
     "fecha": "Fri, 02 Oct 2026 16:15:00 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Now everyone can put data to work",
     "link": "https://openai.com/index/put-data-to-work",
     "fecha": "Thu, 10 Sep 2026 15:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing ChatGPT for Financial Services",
-    "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-    "fecha": "Thu, 10 Sep 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
