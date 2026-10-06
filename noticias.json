@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "fecha": "Tue, 06 Oct 2026 06:44:39 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Our approach to EU text provenance rules",
+    "link": "https://openai.com/index/eu-text-provenance",
+    "fecha": "Mon, 05 Oct 2026 15:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Building advertising for the way people use AI",
+    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "fecha": "Mon, 05 Oct 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "The Agent Said It Was Done. The Database Disagreed.",
     "link": "https://huggingface.co/blog/microsoft/thinkingbox",
     "fecha": "Sat, 03 Oct 2026 22:56:48 +0000",
@@ -150,9 +168,21 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Welcome RL Environments to the hub",
+    "link": "https://huggingface.co/blog/rl-environments",
+    "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "link": "https://openai.com/index/proaction",
     "fecha": "Fri, 25 Sep 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "link": "https://openai.com/index/wayfair",
+    "fecha": "Fri, 25 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -192,26 +222,26 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -447,36 +477,6 @@
     "titulo": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "fecha": "Mon, 14 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "fecha": "Fri, 11 Sep 2026 16:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "fecha": "Fri, 11 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "fecha": "Thu, 10 Sep 2026 16:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "3 ways to prep for your next big race with Search",
-    "link": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-    "fecha": "Thu, 10 Sep 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Now everyone can put data to work",
-    "link": "https://openai.com/index/put-data-to-work",
-    "fecha": "Thu, 10 Sep 2026 15:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
