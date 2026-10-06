@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "link": "https://openai.com/index/atlassian-partnership",
+    "fecha": "Tue, 06 Oct 2026 16:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
     "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
     "fecha": "Tue, 06 Oct 2026 06:44:39 +0000",
@@ -126,14 +132,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -156,14 +162,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -318,14 +324,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "How Fyxer built an AI executive assistant people trust",
     "link": "https://openai.com/index/fyxer",
     "fecha": "Mon, 14 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "fecha": "Mon, 14 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
