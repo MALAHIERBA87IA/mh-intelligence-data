@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Multimodal open d1 decision models for the edge",
+    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "fecha": "Wed, 07 Oct 2026 16:54:33 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "fecha": "Wed, 07 Oct 2026 12:45:31 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Helping teens learn, plan, and shape the future of AI",
+    "link": "https://openai.com/index/teens-learn-and-plan",
+    "fecha": "Wed, 07 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing Playground: Create and play custom games",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "fecha": "Wed, 07 Oct 2026 12:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "link": "https://openai.com/index/radisson",
+    "fecha": "Wed, 07 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "link": "https://openai.com/index/atlassian-partnership",
     "fecha": "Tue, 06 Oct 2026 16:00:00 +0000",
@@ -132,14 +162,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "titulo": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -150,14 +180,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -246,8 +276,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -258,8 +288,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -448,35 +478,5 @@
     "link": "https://openai.com/index/unlocking-new-ways-of-working",
     "fecha": "Wed, 16 Sep 2026 09:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Your Agent Aced the Task. Will It Do It Again?",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-    "fecha": "Tue, 15 Sep 2026 16:00:44 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "AI for Societal Impact",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-    "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Building AI to accelerate science and improve lives",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-    "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "AI for everyone in every language",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
-    "fecha": "Tue, 15 Sep 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "New insights from Google’s AI & Economy ATLAS",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
-    "fecha": "Tue, 15 Sep 2026 13:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
