@@ -1,8 +1,32 @@
 [
   {
+    "titulo": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "link": "https://openai.com/index/oracle",
+    "fecha": "Thu, 08 Oct 2026 16:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "link": "https://openai.com/index/pollo-ai",
+    "fecha": "Thu, 08 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Disrupting AI-enabled “false front” operations",
+    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "fecha": "Thu, 08 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Multimodal open d1 decision models for the edge",
     "link": "https://huggingface.co/blog/LiquidAI/open-d1",
     "fecha": "Wed, 07 Oct 2026 16:54:33 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Introducing Falcon ASR",
+    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "fecha": "Wed, 07 Oct 2026 13:21:03 +0000",
     "fuente": "Hugging Face - Blog"
   },
   {
@@ -156,12 +180,6 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "fecha": "Tue, 29 Sep 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
     "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
     "fecha": "Tue, 29 Sep 2026 15:30:38 +0000",
@@ -180,20 +198,26 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Introducing dots",
     "link": "https://openai.com/index/introducing-dots",
     "fecha": "Tue, 29 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -282,12 +306,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
@@ -296,6 +314,12 @@
   {
     "titulo": "Sam Altman’s remarks at the United Nations Security Council",
     "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -453,30 +477,6 @@
     "titulo": "Our framework for reporting model misalignment",
     "link": "https://openai.com/index/model-misalignment-reporting-framework",
     "fecha": "Wed, 16 Sep 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Helping older adults use AI in everyday life",
-    "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-    "fecha": "Wed, 16 Sep 2026 16:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Reimagining advertising with AI",
-    "link": "https://openai.com/index/reimagining-advertising-with-ai",
-    "fecha": "Wed, 16 Sep 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-    "link": "https://openai.com/index/hex-gpt-6-astra",
-    "fecha": "Wed, 16 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How to connect AI usage to business value",
-    "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "fecha": "Wed, 16 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
