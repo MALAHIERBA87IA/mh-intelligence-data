@@ -30,6 +30,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "GPT-6 and Intelligent UI for everyone",
+    "link": "https://openai.com/index/gpt-6-for-everyone",
+    "fecha": "Wed, 07 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
     "link": "https://openai.com/index/atlassian-partnership",
     "fecha": "Tue, 06 Oct 2026 16:00:00 +0000",
@@ -150,6 +156,12 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "fecha": "Tue, 29 Sep 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
     "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
     "fecha": "Tue, 29 Sep 2026 15:30:38 +0000",
@@ -168,26 +180,20 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Introducing dots",
     "link": "https://openai.com/index/introducing-dots",
     "fecha": "Tue, 29 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -282,14 +288,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -372,14 +378,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "How to connect AI usage to business value",
     "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "fecha": "Wed, 16 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How workers are unlocking new ways of working",
-    "link": "https://openai.com/index/unlocking-new-ways-of-working",
-    "fecha": "Wed, 16 Sep 2026 09:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
