@@ -12,10 +12,22 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "LegalOn halves Codex costs while maintaining development speed",
+    "link": "https://openai.com/index/legalon-halves-codex-costs",
+    "fecha": "Thu, 08 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Disrupting AI-enabled “false front” operations",
     "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "fecha": "Thu, 08 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "The model that didn't exist, so you made it yourself",
+    "link": "https://huggingface.co/blog/building-with-ml-intern",
+    "fecha": "Thu, 08 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "Multimodal open d1 decision models for the edge",
@@ -240,14 +252,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "How Cooley is accelerating IPO work with ChatGPT",
     "link": "https://openai.com/index/cooley-gopublic",
     "fecha": "Thu, 17 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing Astra for Law",
-    "link": "https://openai.com/index/astra-for-law",
-    "fecha": "Thu, 17 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Our framework for reporting model misalignment",
-    "link": "https://openai.com/index/model-misalignment-reporting-framework",
-    "fecha": "Wed, 16 Sep 2026 17:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
