@@ -12,6 +12,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
+    "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How Oracle turns days of work into minutes with ChatGPT and Codex",
     "link": "https://openai.com/index/oracle",
     "fecha": "Thu, 08 Oct 2026 16:00:00 +0000",
@@ -216,14 +222,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "titulo": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -264,14 +270,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -285,6 +291,12 @@
     "titulo": "Proaction boosts sales 60% and saves 75+ hours with Codex",
     "link": "https://openai.com/index/proaction",
     "fecha": "Fri, 25 Sep 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Lowe’s answers millions of home improvement questions with OpenAI",
+    "link": "https://openai.com/index/lowes",
+    "fecha": "Fri, 25 Sep 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -330,14 +342,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -348,8 +360,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
     "fecha": "Fri, 18 Sep 2026 14:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "Co-creating the future of fashion with Google",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-    "fecha": "Fri, 18 Sep 2026 13:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Introducing the Australian Youth Safety Blueprint",
-    "link": "https://openai.com/index/australian-youth-safety-blueprint",
-    "fecha": "Fri, 18 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
