@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "fecha": "Tue, 13 Oct 2026 17:05:48 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Gemini 4 Argon: Built to solve your hardest problems",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "fecha": "Tue, 13 Oct 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "Impactful scheduling for GPU clusters",
     "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "fecha": "Fri, 09 Oct 2026 15:20:29 +0000",
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/v7",
     "fecha": "Mon, 21 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "tokenizers v1: encode, decode and scaling, measured",
-    "link": "https://huggingface.co/blog/tokenizers-v1",
-    "fecha": "Mon, 21 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "New experts join Google’s AI & Economy team",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-    "fecha": "Fri, 18 Sep 2026 14:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
