@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+    "fecha": "Wed, 14 Oct 2026 16:12:42 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Amp puts AI agents to work beyond code with OpenAI models",
+    "link": "https://openai.com/index/amp-beyond-coding",
+    "fecha": "Wed, 14 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "SentinelOne cuts malware analysis from weeks to hours",
+    "link": "https://openai.com/index/sentinelone",
+    "fecha": "Wed, 14 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How Third Moment Research runs 10,000 agents for 36+ hours",
     "link": "https://openai.com/index/third-moment-research",
     "fecha": "Wed, 14 Oct 2026 07:00:00 +0000",
@@ -300,14 +318,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -372,14 +390,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -390,8 +408,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://huggingface.co/blog/omlx",
     "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-    "fecha": "Mon, 21 Sep 2026 13:44:34 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-    "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
