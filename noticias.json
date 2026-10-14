@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "link": "https://openai.com/index/third-moment-research",
+    "fecha": "Wed, 14 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "The EU’s next chapter in AI is agentic",
+    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "fecha": "Wed, 14 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Run fast, private agents on-device with LFM2.5-24B-A2B",
     "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
     "fecha": "Tue, 13 Oct 2026 17:05:48 +0000",
@@ -24,14 +36,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -360,8 +372,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -372,14 +390,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
     "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Building standards for the next phase of AI",
-    "link": "https://openai.com/index/building-standards-next-phase-ai",
-    "fecha": "Mon, 21 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Expanding OpenAI Academy with new learning paths",
-    "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-    "fecha": "Mon, 21 Sep 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
