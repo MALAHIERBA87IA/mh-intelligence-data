@@ -12,6 +12,12 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "Higgsfield takes AI video from 1 minute to over 10",
+    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "fecha": "Tue, 13 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Impactful scheduling for GPU clusters",
     "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "fecha": "Fri, 09 Oct 2026 15:20:29 +0000",
@@ -354,8 +360,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -366,8 +372,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -450,14 +456,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
-    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "titulo": "Advisory Group on Mathematics and Artificial Intelligence",
+    "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "fecha": "Mon, 21 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "Expanding OpenAI Academy with new learning paths",
     "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
     "fecha": "Mon, 21 Sep 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-    "link": "https://openai.com/index/v7",
-    "fecha": "Mon, 21 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
