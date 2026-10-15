@@ -24,6 +24,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "How Block is building AI-powered security with OpenAI technology",
+    "link": "https://openai.com/index/block-ai-powered-security",
+    "fecha": "Wed, 14 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "The EU’s next chapter in AI is agentic",
     "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "fecha": "Wed, 14 Oct 2026 00:00:00 +0000",
@@ -390,8 +396,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -402,8 +408,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -470,12 +476,6 @@
   {
     "titulo": "Transformers now runs llama.cpp quants",
     "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-    "link": "https://huggingface.co/blog/omlx",
     "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
   }
