@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "fecha": "Thu, 15 Oct 2026 20:34:01 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Teaching students to think and learn through questions",
     "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
     "fecha": "Thu, 15 Oct 2026 13:00:00 +0000",
@@ -9,6 +15,12 @@
     "titulo": "Apertus 1.5 Release Notes",
     "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "fecha": "Thu, 15 Oct 2026 09:08:45 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "link": "https://huggingface.co/blog/meta-muse-spark-open",
+    "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
   },
   {
@@ -465,18 +477,6 @@
     "titulo": "Better prompt caching for GPT-6",
     "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "fecha": "Tue, 22 Sep 2026 21:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing GPT-6 Sol and Luna",
-    "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-    "fecha": "Tue, 22 Sep 2026 18:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Parallel cut research time and cost in half with GPT‑6 Astra",
-    "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-    "fecha": "Tue, 22 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
