@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Teaching students to think and learn through questions",
+    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "fecha": "Thu, 15 Oct 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Apertus 1.5 Release Notes",
+    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "fecha": "Thu, 15 Oct 2026 09:08:45 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Welcome FLUX.3 Image Klein in Diffusers",
+    "link": "https://huggingface.co/blog/flux-3",
+    "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
     "link": "https://huggingface.co/blog/allenai/hiro-acev2",
     "fecha": "Wed, 14 Oct 2026 16:12:42 +0000",
@@ -294,14 +312,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+    "titulo": "Towards safety cases for frontier AI training",
+    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+    "titulo": "How we will do better for Australia",
+    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
     "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -324,14 +342,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -396,8 +414,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
+    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -408,14 +432,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sam Altman’s remarks at the United Nations Security Council",
-    "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
     "fecha": "Tue, 22 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Priorities and principles for effective third party assessments",
-    "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-    "link": "https://huggingface.co/blog/evaleval-aisi",
-    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Transformers now runs llama.cpp quants",
-    "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "fecha": "Tue, 22 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
