@@ -1,9 +1,21 @@
 [
   {
+    "titulo": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "fecha": "Fri, 16 Oct 2026 01:44:47 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "fecha": "Thu, 15 Oct 2026 20:34:01 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Bringing GPT-Rosalind to academic research labs",
+    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "fecha": "Thu, 15 Oct 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Teaching students to think and learn through questions",
@@ -16,6 +28,12 @@
     "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "fecha": "Thu, 15 Oct 2026 09:08:45 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Sullivan & Cromwell brings legal expertise into agreement review",
+    "link": "https://openai.com/index/sullivan-cromwell",
+    "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -432,8 +450,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-    "link": "https://openai.com/index/ringg",
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -444,8 +462,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -459,24 +477,6 @@
     "titulo": "ChatGPT Ads expands to Southeast Asia and Taiwan",
     "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
     "fecha": "Wed, 23 Sep 2026 02:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-    "link": "https://openai.com/index/airbnb-gpt-6-astra",
-    "fecha": "Wed, 23 Sep 2026 01:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-    "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-    "fecha": "Wed, 23 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Better prompt caching for GPT-6",
-    "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-    "fecha": "Tue, 22 Sep 2026 21:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
