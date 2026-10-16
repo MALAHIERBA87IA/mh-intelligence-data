@@ -6,6 +6,12 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "link": "https://huggingface.co/blog/reflection-beam",
+    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "fecha": "Thu, 15 Oct 2026 20:34:01 +0000",
@@ -471,12 +477,6 @@
     "titulo": "Introducing MentalHealthBench",
     "link": "https://openai.com/index/introducing-mentalhealthbench",
     "fecha": "Wed, 23 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-    "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "fecha": "Wed, 23 Sep 2026 02:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
