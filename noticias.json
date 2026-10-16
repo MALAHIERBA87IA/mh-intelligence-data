@@ -6,6 +6,12 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Welcome Beam: a 501B open model you can own, customize, and scale",
     "link": "https://huggingface.co/blog/reflection-beam",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
@@ -114,14 +120,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -378,14 +384,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
+    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "titulo": "Are you a Codex Original?",
+    "link": "https://openai.com/form/codex-originals",
     "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -456,14 +462,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
-    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+    "titulo": "How invideo improves color grading 3x with GPT‑6 Astra",
+    "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "link": "https://openai.com/index/ringg",
     "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing MentalHealthBench",
-    "link": "https://openai.com/index/introducing-mentalhealthbench",
-    "fecha": "Wed, 23 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
