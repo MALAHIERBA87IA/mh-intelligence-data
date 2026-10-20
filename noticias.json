@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "fecha": "Tue, 20 Oct 2026 15:19:48 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "link": "https://huggingface.co/blog/hf-torchtpu",
+    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "MPS in PyTorch 2.15",
+    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Advancing coding in low‑resource programming languages",
     "link": "https://openai.com/index/low-resource-programming-languages",
     "fecha": "Mon, 19 Oct 2026 12:00:00 +0000",
@@ -454,29 +478,5 @@
     "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
     "fecha": "Wed, 23 Sep 2026 18:41:40 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Google Beam expands with new regions, partners, and customers",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "fecha": "Wed, 23 Sep 2026 18:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Two years of OpenAI Academy",
-    "link": "https://openai.com/index/two-years-of-openai-academy",
-    "fecha": "Wed, 23 Sep 2026 16:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-    "fecha": "Wed, 23 Sep 2026 13:17:01 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "OpenAI extends cyber access to Ukraine for civilian defense",
-    "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-    "fecha": "Wed, 23 Sep 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
