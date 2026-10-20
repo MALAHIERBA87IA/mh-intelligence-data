@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Advancing coding in low‑resource programming languages",
+    "link": "https://openai.com/index/low-resource-programming-languages",
+    "fecha": "Mon, 19 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
     "link": "https://huggingface.co/blog/hf-torchneuron",
     "fecha": "Mon, 19 Oct 2026 00:00:00 +0000",
@@ -354,14 +360,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "titulo": "DevDay 2026 Recap",
+    "link": "https://openai.com/index/devday-2026-recap",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
+    "titulo": "Introducing GPT-6.1 Sol",
+    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -471,12 +477,6 @@
     "titulo": "OpenAI extends cyber access to Ukraine for civilian defense",
     "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "fecha": "Wed, 23 Sep 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-    "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-    "fecha": "Wed, 23 Sep 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
