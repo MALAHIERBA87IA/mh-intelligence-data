@@ -1,9 +1,33 @@
 [
   {
+    "titulo": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "fecha": "Tue, 20 Oct 2026 18:17:47 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "link": "https://huggingface.co/blog/allenai/fairstress",
+    "fecha": "Tue, 20 Oct 2026 16:09:19 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
     "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
     "fecha": "Tue, 20 Oct 2026 15:19:48 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "link": "https://openai.com/index/ted-taylor-restaurant",
+    "fecha": "Tue, 20 Oct 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OpenAI acquires Orchestra Bio",
+    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
@@ -168,14 +192,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -454,29 +478,5 @@
     "link": "https://openai.com/index/proaction",
     "fecha": "Fri, 25 Sep 2026 19:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Lowe’s answers millions of home improvement questions with OpenAI",
-    "link": "https://openai.com/index/lowes",
-    "fecha": "Fri, 25 Sep 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-    "link": "https://openai.com/index/wayfair",
-    "fecha": "Fri, 25 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-    "fecha": "Thu, 24 Sep 2026 14:08:57 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-    "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "fecha": "Wed, 23 Sep 2026 18:41:40 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
