@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "fecha": "Wed, 21 Oct 2026 18:26:30 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "fecha": "Wed, 21 Oct 2026 17:35:36 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How AT&T is rethinking in-house legal work with OpenAI",
+    "link": "https://openai.com/index/att-legal",
+    "fecha": "Wed, 21 Oct 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "fecha": "Wed, 21 Oct 2026 16:04:43 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
     "fecha": "Wed, 21 Oct 2026 16:04:43 +0000",
@@ -52,6 +76,12 @@
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "fecha": "Wed, 21 Oct 2026 04:00:00 +0000",
     "fuente": "Google AI"
+  },
+  {
+    "titulo": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "link": "https://openai.com/index/empowering-cyber-defenders",
+    "fecha": "Wed, 21 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
@@ -132,14 +162,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -252,14 +282,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -447,36 +477,6 @@
     "titulo": "Helping small businesses put AI to work",
     "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
     "fecha": "Wed, 30 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-    "link": "https://huggingface.co/blog/open-tts-leaderboard",
-    "fecha": "Wed, 30 Sep 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-    "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-    "fecha": "Tue, 29 Sep 2026 15:30:38 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-    "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "fecha": "Tue, 29 Sep 2026 13:07:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "DevDay 2026 Recap",
-    "link": "https://openai.com/index/devday-2026-recap",
-    "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing GPT-6.1 Sol",
-    "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
