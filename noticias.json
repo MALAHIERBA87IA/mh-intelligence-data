@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+    "fecha": "Wed, 21 Oct 2026 16:04:43 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "fecha": "Wed, 21 Oct 2026 14:58:18 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "fecha": "Wed, 21 Oct 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "fecha": "Wed, 21 Oct 2026 12:51:24 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "OpenAI models are coming to Google Cloud",
+    "link": "https://openai.com/index/openai-models-google-cloud",
+    "fecha": "Wed, 21 Oct 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "fecha": "Wed, 21 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "link": "https://openai.com/index/building-chatgpt-ad-stack",
+    "fecha": "Wed, 21 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Using thousands of AI agents to uncover new leads in biological data",
+    "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "fecha": "Wed, 21 Oct 2026 04:50:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Southeast Asia’s digital economy to hit $368 billion",
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "fecha": "Wed, 21 Oct 2026 04:00:00 +0000",
@@ -84,14 +132,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -429,54 +477,6 @@
     "titulo": "Introducing GPT-6.1 Sol",
     "link": "https://openai.com/index/introducing-gpt-6-1-sol",
     "fecha": "Tue, 29 Sep 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing dots",
-    "link": "https://openai.com/index/introducing-dots",
-    "fecha": "Tue, 29 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Towards safety cases for frontier AI training",
-    "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-    "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How we will do better for Australia",
-    "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-    "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "fecha": "Mon, 28 Sep 2026 19:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Holo4: powering generalist computer-use agents",
-    "link": "https://huggingface.co/blog/Hcompany/holo4",
-    "fecha": "Mon, 28 Sep 2026 09:44:05 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-    "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-    "fecha": "Mon, 28 Sep 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Are you a Codex Original?",
-    "link": "https://openai.com/form/codex-originals",
-    "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-    "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-    "fecha": "Mon, 28 Sep 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
