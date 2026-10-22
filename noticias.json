@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Build more responsive apps with the Decisions API",
+    "link": "https://openai.com/index/decisions-api",
+    "fecha": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "fecha": "Thu, 22 Oct 2026 16:11:31 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Ensemble forecasting with IBM Granite time-series models",
     "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "fecha": "Thu, 22 Oct 2026 07:51:31 +0000",
@@ -9,6 +21,12 @@
     "titulo": "What FDE means at OpenAI",
     "link": "https://openai.com/index/forward-deployed-engineering-means",
     "fecha": "Thu, 22 Oct 2026 06:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "fecha": "Thu, 22 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -186,14 +204,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "fecha": "Fri, 02 Oct 2026 04:01:31 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Chatham scales its capital markets expertise with OpenAI",
-    "link": "https://openai.com/index/chatham-financial",
-    "fecha": "Fri, 02 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "The eternal complement",
-    "link": "https://openai.com/index/the-eternal-complement",
-    "fecha": "Thu, 01 Oct 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Albertsons Companies is reimagining retail from the inside out",
-    "link": "https://openai.com/index/albertsons-reimagining-retail",
-    "fecha": "Thu, 01 Oct 2026 16:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
