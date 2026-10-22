@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Broad access through consistent standards",
+    "link": "https://openai.com/index/broad-access-through-consistent-standards",
+    "fecha": "Wed, 21 Oct 2026 21:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
     "link": "https://huggingface.co/blog/nvidia/kumo-relational",
     "fecha": "Wed, 21 Oct 2026 18:26:30 +0000",
@@ -76,6 +82,12 @@
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
     "fecha": "Wed, 21 Oct 2026 04:00:00 +0000",
     "fuente": "Google AI"
+  },
+  {
+    "titulo": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "link": "https://openai.com/index/cloudflare-cyber",
+    "fecha": "Wed, 21 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
@@ -282,14 +294,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
     "link": "https://openai.com/index/the-den-family-social",
     "fecha": "Thu, 01 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Disrupting a coordinated model-distillation campaign",
-    "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-    "fecha": "Wed, 30 Sep 2026 10:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Helping small businesses put AI to work",
-    "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-    "fecha": "Wed, 30 Sep 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
