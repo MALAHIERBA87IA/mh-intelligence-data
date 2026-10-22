@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Ensemble forecasting with IBM Granite time-series models",
+    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "fecha": "Thu, 22 Oct 2026 07:51:31 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "What FDE means at OpenAI",
+    "link": "https://openai.com/index/forward-deployed-engineering-means",
+    "fecha": "Thu, 22 Oct 2026 06:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Broad access through consistent standards",
     "link": "https://openai.com/index/broad-access-through-consistent-standards",
     "fecha": "Wed, 21 Oct 2026 21:00:00 +0000",
@@ -465,18 +477,6 @@
     "titulo": "How Albertsons Companies is reimagining retail from the inside out",
     "link": "https://openai.com/index/albertsons-reimagining-retail",
     "fecha": "Thu, 01 Oct 2026 16:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-    "link": "https://huggingface.co/blog/allenai/olmocore3",
-    "fecha": "Thu, 01 Oct 2026 15:01:43 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "link": "https://openai.com/index/the-den-family-social",
-    "fecha": "Thu, 01 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
