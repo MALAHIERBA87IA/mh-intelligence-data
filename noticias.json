@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "fecha": "Fri, 23 Oct 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "link": "https://huggingface.co/blog/allenai/litpivot",
+    "fecha": "Fri, 23 Oct 2026 16:15:50 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Securing our frontier model training environment",
+    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "fecha": "Fri, 23 Oct 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
@@ -342,14 +360,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -459,24 +477,6 @@
     "titulo": "Our approach to EU text provenance rules",
     "link": "https://openai.com/index/eu-text-provenance",
     "fecha": "Mon, 05 Oct 2026 15:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Building advertising for the way people use AI",
-    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "fecha": "Mon, 05 Oct 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "The Agent Said It Was Done. The Database Disagreed.",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-    "fecha": "Sat, 03 Oct 2026 22:56:48 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "A model guide for the GPT-6 family",
-    "link": "https://openai.com/index/practical-guide-building-gpt-6",
-    "fecha": "Fri, 02 Oct 2026 16:15:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
