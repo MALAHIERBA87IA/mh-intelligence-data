@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "fecha": "Thu, 22 Oct 2026 22:24:34 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Build more responsive apps with the Decisions API",
     "link": "https://openai.com/index/decisions-api",
     "fecha": "Thu, 22 Oct 2026 19:00:00 +0000",
@@ -204,14 +216,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
     "link": "https://huggingface.co/blog/allenai/astabrief",
     "fecha": "Fri, 02 Oct 2026 15:19:50 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "The latest AI news we announced in September 2026",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "fecha": "Fri, 02 Oct 2026 15:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "AutoSynthData: Generating Training Data for Enterprise Agents",
-    "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-    "fecha": "Fri, 02 Oct 2026 04:01:31 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
