@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Our newest AI Quest: Mapping the human brain",
+    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "fecha": "Mon, 26 Oct 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "How Fanatics and OpenAI streamline the fan experience",
+    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "fecha": "Mon, 26 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "fecha": "Fri, 23 Oct 2026 17:00:00 +0000",
@@ -240,14 +252,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -360,14 +372,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Advancing computer use with Ironclad",
     "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
     "fecha": "Tue, 06 Oct 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-    "fecha": "Tue, 06 Oct 2026 06:44:39 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Our approach to EU text provenance rules",
-    "link": "https://openai.com/index/eu-text-provenance",
-    "fecha": "Mon, 05 Oct 2026 15:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
