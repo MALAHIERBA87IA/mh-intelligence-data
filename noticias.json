@@ -1,9 +1,21 @@
 [
   {
+    "titulo": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "link": "https://openai.com/index/greptile-code-review-codex-astra",
+    "fecha": "Mon, 26 Oct 2026 22:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Our newest AI Quest: Mapping the human brain",
     "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "fecha": "Mon, 26 Oct 2026 16:00:00 +0000",
     "fuente": "Google AI"
+  },
+  {
+    "titulo": "Working with academic communities to build scientific understanding",
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "fecha": "Mon, 26 Oct 2026 14:30:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -27,12 +39,6 @@
     "titulo": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
     "link": "https://openai.com/index/openai-cut-incident-investigation",
     "fecha": "Mon, 26 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Working with academic communities to build scientific understanding",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "fecha": "Mon, 26 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -282,14 +288,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -402,14 +408,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
     "fecha": "Wed, 07 Oct 2026 12:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-    "link": "https://openai.com/index/radisson",
-    "fecha": "Wed, 07 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
