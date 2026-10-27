@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Can we trust LLMs to judge whether a research idea is novel?",
+    "link": "https://huggingface.co/blog/allenai/novelty-bench",
+    "fecha": "Tue, 27 Oct 2026 16:12:42 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "fecha": "Tue, 27 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "link": "https://openai.com/index/greptile-code-review-codex-astra",
     "fecha": "Mon, 26 Oct 2026 22:00:00 +0000",
@@ -63,6 +75,12 @@
     "titulo": "Securing our frontier model training environment",
     "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "fecha": "Fri, 23 Oct 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "link": "https://openai.com/index/anima",
+    "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -408,14 +426,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
+    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "link": "https://openai.com/index/sophos",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
+    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "fecha": "Wed, 07 Oct 2026 13:21:03 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-    "fecha": "Wed, 07 Oct 2026 12:45:31 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Helping teens learn, plan, and shape the future of AI",
-    "link": "https://openai.com/index/teens-learn-and-plan",
-    "fecha": "Wed, 07 Oct 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing Playground: Create and play custom games",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-    "fecha": "Wed, 07 Oct 2026 12:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
