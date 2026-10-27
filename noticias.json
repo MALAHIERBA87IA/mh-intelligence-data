@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Build specialized multimodal models with LFM3",
+    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "fecha": "Tue, 27 Oct 2026 17:16:52 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Can we trust LLMs to judge whether a research idea is novel?",
     "link": "https://huggingface.co/blog/allenai/novelty-bench",
     "fecha": "Tue, 27 Oct 2026 16:12:42 +0000",
@@ -9,6 +15,12 @@
     "titulo": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
     "link": "https://openai.com/index/oracle-apps-in-chatgpt",
     "fecha": "Tue, 27 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Check Point accelerates vulnerability research with Daybreak",
+    "link": "https://openai.com/index/check-point-daybreak",
+    "fecha": "Tue, 27 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -465,18 +477,6 @@
     "titulo": "The model that didn't exist, so you made it yourself",
     "link": "https://huggingface.co/blog/building-with-ml-intern",
     "fecha": "Thu, 08 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Multimodal open d1 decision models for the edge",
-    "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-    "fecha": "Wed, 07 Oct 2026 16:54:33 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Introducing Falcon ASR",
-    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "fecha": "Wed, 07 Oct 2026 13:21:03 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
