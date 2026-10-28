@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "fecha": "Wed, 28 Oct 2026 14:58:17 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "fecha": "Wed, 28 Oct 2026 09:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora",
+    "fecha": "Wed, 28 Oct 2026 09:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Build specialized multimodal models with LFM3",
     "link": "https://huggingface.co/blog/LiquidAI/lfm3",
     "fecha": "Tue, 27 Oct 2026 17:16:52 +0000",
@@ -324,26 +342,26 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "How Localiza reorganized work around generative AI",
-    "link": "https://openai.com/index/localiza-generative-ai",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "How Grupo Boticário uses AI to strengthen human connections",
     "link": "https://openai.com/index/grupo-boticario",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "How Localiza reorganized work around generative AI",
+    "link": "https://openai.com/index/localiza-generative-ai",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "Benefit Street Partners answers questions faster with Codex",
     "link": "https://openai.com/index/benefit-street-partners",
+    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -456,27 +474,9 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-    "link": "https://openai.com/index/sophos",
-    "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
     "link": "https://openai.com/index/asana-browser-agent",
     "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-    "link": "https://openai.com/index/oracle",
-    "fecha": "Thu, 08 Oct 2026 16:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Pollo AI turns creative ideas into campaigns with OpenAI",
-    "link": "https://openai.com/index/pollo-ai",
-    "fecha": "Thu, 08 Oct 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
