@@ -6,14 +6,26 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Legora is building the agentic operating system for legal work",
-    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-    "fecha": "Wed, 28 Oct 2026 09:30:00 +0000",
+    "titulo": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "fecha": "Wed, 28 Oct 2026 13:15:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "The future of the firm",
+    "link": "https://openai.com/index/the-future-of-the-firm",
+    "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "Legora is building the agentic operating system for legal work",
     "link": "https://openai.com/index/legora",
+    "fecha": "Wed, 28 Oct 2026 09:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Legora is building the agentic operating system for legal work",
+    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
     "fecha": "Wed, 28 Oct 2026 09:30:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -342,26 +354,26 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "How Grupo Boticário uses AI to strengthen human connections",
-    "link": "https://openai.com/index/grupo-boticario",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "How Localiza reorganized work around generative AI",
     "link": "https://openai.com/index/localiza-generative-ai",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "How Grupo Boticário uses AI to strengthen human connections",
+    "link": "https://openai.com/index/grupo-boticario",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Higgsfield takes AI video from 1 minute to over 10",
     "link": "https://openai.com/index/higgsfield-longer-videos-voice",
     "fecha": "Tue, 13 Oct 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Impactful scheduling for GPU clusters",
-    "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "fecha": "Fri, 09 Oct 2026 15:20:29 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-    "link": "https://openai.com/index/asana-browser-agent",
-    "fecha": "Fri, 09 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
