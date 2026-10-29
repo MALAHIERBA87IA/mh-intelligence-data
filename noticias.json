@@ -1,5 +1,35 @@
 [
   {
+    "titulo": "Granite Switch 4.1.1 — Update models like you update software",
+    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "fecha": "Thu, 29 Oct 2026 13:37:07 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How we detect frontier model misalignment",
+    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "fecha": "Thu, 29 Oct 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "link": "https://huggingface.co/blog/announcing-project-protostar",
+    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "link": "https://huggingface.co/blog/mistral-large4",
+    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "link": "https://huggingface.co/blog/anydecisionmodel",
+    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
     "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
     "fecha": "Wed, 28 Oct 2026 14:58:17 +0000",
@@ -366,14 +396,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -447,36 +477,6 @@
     "titulo": "How Third Moment Research runs 10,000 agents for 36+ hours",
     "link": "https://openai.com/index/third-moment-research",
     "fecha": "Wed, 14 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Block is building AI-powered security with OpenAI technology",
-    "link": "https://openai.com/index/block-ai-powered-security",
-    "fecha": "Wed, 14 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "The EU’s next chapter in AI is agentic",
-    "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-    "fecha": "Wed, 14 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "fecha": "Tue, 13 Oct 2026 17:05:48 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Gemini 4 Argon: Built to solve your hardest problems",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "fecha": "Tue, 13 Oct 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Higgsfield takes AI video from 1 minute to over 10",
-    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-    "fecha": "Tue, 13 Oct 2026 12:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
