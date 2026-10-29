@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "An updated Model Spec for more capable and beneficial AI",
+    "link": "https://openai.com/index/updated-model-spec",
+    "fecha": "Thu, 29 Oct 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Granite Switch 4.1.1 — Update models like you update software",
     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "fecha": "Thu, 29 Oct 2026 13:37:07 +0000",
@@ -9,6 +15,12 @@
     "titulo": "How we detect frontier model misalignment",
     "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "fecha": "Thu, 29 Oct 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Ropes & Gray is developing AI for transactional diligence",
+    "link": "https://openai.com/index/ropes-gray-ai-diligence",
+    "fecha": "Thu, 29 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -465,18 +477,6 @@
     "titulo": "Amp puts AI agents to work beyond code with OpenAI models",
     "link": "https://openai.com/index/amp-beyond-coding",
     "fecha": "Wed, 14 Oct 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "SentinelOne cuts malware analysis from weeks to hours",
-    "link": "https://openai.com/index/sentinelone",
-    "fecha": "Wed, 14 Oct 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Third Moment Research runs 10,000 agents for 36+ hours",
-    "link": "https://openai.com/index/third-moment-research",
-    "fecha": "Wed, 14 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
