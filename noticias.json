@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Community safety report and new protections for teens",
+    "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "fecha": "Fri, 30 Oct 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "An updated Model Spec for more capable and beneficial AI",
     "link": "https://openai.com/index/updated-model-spec",
     "fecha": "Thu, 29 Oct 2026 17:00:00 +0000",
@@ -21,6 +27,12 @@
     "titulo": "How Ropes & Gray is developing AI for transactional diligence",
     "link": "https://openai.com/index/ropes-gray-ai-diligence",
     "fecha": "Thu, 29 Oct 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "link": "https://openai.com/index/credit-saison",
+    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -396,26 +408,26 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "How Grupo Boticário uses AI to strengthen human connections",
-    "link": "https://openai.com/index/grupo-boticario",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "How Localiza reorganized work around generative AI",
     "link": "https://openai.com/index/localiza-generative-ai",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "How Grupo Boticário uses AI to strengthen human connections",
+    "link": "https://openai.com/index/grupo-boticario",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://huggingface.co/blog/flux-3",
     "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-    "link": "https://huggingface.co/blog/allenai/hiro-acev2",
-    "fecha": "Wed, 14 Oct 2026 16:12:42 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Amp puts AI agents to work beyond code with OpenAI models",
-    "link": "https://openai.com/index/amp-beyond-coding",
-    "fecha": "Wed, 14 Oct 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
