@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "nemotron-halloween",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "fecha": "Fri, 30 Oct 2026 17:57:24 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Making it easier for websites to express AI training preferences",
+    "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "fecha": "Fri, 30 Oct 2026 09:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Community safety report and new protections for teens",
     "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "fecha": "Fri, 30 Oct 2026 09:00:00 +0000",
@@ -408,26 +420,26 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "How Localiza reorganized work around generative AI",
-    "link": "https://openai.com/index/localiza-generative-ai",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "How Grupo Boticário uses AI to strengthen human connections",
     "link": "https://openai.com/index/grupo-boticario",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "titulo": "How Localiza reorganized work around generative AI",
+    "link": "https://openai.com/index/localiza-generative-ai",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "Benefit Street Partners answers questions faster with Codex",
     "link": "https://openai.com/index/benefit-street-partners",
+    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/sullivan-cromwell",
     "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "link": "https://huggingface.co/blog/meta-muse-spark-open",
-    "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Welcome FLUX.3 Image Klein in Diffusers",
-    "link": "https://huggingface.co/blog/flux-3",
-    "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
