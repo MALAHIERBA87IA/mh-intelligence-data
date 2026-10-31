@@ -18,6 +18,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Fair use benefits everyone",
+    "link": "https://openai.com/index/fair-use-benefits-everyone",
+    "fecha": "Fri, 30 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "An updated Model Spec for more capable and beneficial AI",
     "link": "https://openai.com/index/updated-model-spec",
     "fecha": "Thu, 29 Oct 2026 17:00:00 +0000",
@@ -420,26 +426,26 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "How Grupo Boticário uses AI to strengthen human connections",
-    "link": "https://openai.com/index/grupo-boticario",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "How Localiza reorganized work around generative AI",
     "link": "https://openai.com/index/localiza-generative-ai",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
+    "titulo": "How Grupo Boticário uses AI to strengthen human connections",
+    "link": "https://openai.com/index/grupo-boticario",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
     "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
     "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Benefit Street Partners answers questions faster with Codex",
+    "link": "https://openai.com/index/benefit-street-partners",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "fecha": "Thu, 15 Oct 2026 09:08:45 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "link": "https://openai.com/index/sullivan-cromwell",
-    "fecha": "Thu, 15 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
