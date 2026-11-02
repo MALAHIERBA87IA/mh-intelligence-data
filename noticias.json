@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "The latest AI news we announced in October 2026",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "fecha": "Mon, 02 Nov 2026 17:45:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Introducing the Grid Protectors Program",
+    "link": "https://openai.com/index/grid-protectors-program",
+    "fecha": "Mon, 02 Nov 2026 15:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "LifeVal",
+    "link": "https://openai.com/index/lifeval",
+    "fecha": "Mon, 02 Nov 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
+    "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "nemotron-halloween",
     "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "fecha": "Fri, 30 Oct 2026 17:57:24 +0000",
@@ -453,30 +477,6 @@
     "titulo": "Welcome Beam: a 501B open model you can own, customize, and scale",
     "link": "https://huggingface.co/blog/reflection-beam",
     "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-    "fecha": "Thu, 15 Oct 2026 20:34:01 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Bringing GPT-Rosalind to academic research labs",
-    "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-    "fecha": "Thu, 15 Oct 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Teaching students to think and learn through questions",
-    "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "fecha": "Thu, 15 Oct 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Apertus 1.5 Release Notes",
-    "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-    "fecha": "Thu, 15 Oct 2026 09:08:45 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
