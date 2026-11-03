@@ -1,9 +1,33 @@
 [
   {
+    "titulo": "Transformers Model Integration Contracts",
+    "link": "https://huggingface.co/blog/transformers-mic",
+    "fecha": "Tue, 03 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "The latest AI news we announced in October 2026",
     "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
     "fecha": "Mon, 02 Nov 2026 17:45:00 +0000",
     "fuente": "Google AI"
+  },
+  {
+    "titulo": "Scaling Git at OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai",
+    "fecha": "Mon, 02 Nov 2026 15:30:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Introducing the Grid Protectors Program",
@@ -20,6 +44,12 @@
   {
     "titulo": "Qodo builds context into AI code review with Codex",
     "link": "https://openai.com/index/qodo-codex-plugin",
+    "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -447,36 +477,6 @@
     "titulo": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
     "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "fecha": "Fri, 16 Oct 2026 01:44:47 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "How Localiza reorganized work around generative AI",
-    "link": "https://openai.com/index/localiza-generative-ai",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Grupo Boticário uses AI to strengthen human connections",
-    "link": "https://openai.com/index/grupo-boticario",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Benefit Street Partners answers questions faster with Codex",
-    "link": "https://openai.com/index/benefit-street-partners",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Welcome Beam: a 501B open model you can own, customize, and scale",
-    "link": "https://huggingface.co/blog/reflection-beam",
-    "fecha": "Fri, 16 Oct 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
