@@ -1,19 +1,43 @@
 [
   {
+    "titulo": "StateBench: Testing how language models track state changes over long documents",
+    "link": "https://huggingface.co/blog/allenai/statebench",
+    "fecha": "Tue, 03 Nov 2026 17:15:21 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Palette: teaching a small model to build decks in your design language",
+    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "fecha": "Tue, 03 Nov 2026 16:35:36 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Heimstaden is changing residential real estate management with AI",
+    "link": "https://openai.com/index/heimstaden",
+    "fecha": "Tue, 03 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "CWE-bench v2: More coverage, quality, and transparency",
+    "link": "https://huggingface.co/blog/cwe-bench",
+    "fecha": "Tue, 03 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Transformers Model Integration Contracts",
     "link": "https://huggingface.co/blog/transformers-mic",
     "fecha": "Tue, 03 Nov 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -42,14 +66,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -453,30 +477,6 @@
     "titulo": "MPS in PyTorch 2.15",
     "link": "https://huggingface.co/blog/mps-pytorch-2-15",
     "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Advancing coding in low‑resource programming languages",
-    "link": "https://openai.com/index/low-resource-programming-languages",
-    "fecha": "Mon, 19 Oct 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-    "link": "https://huggingface.co/blog/hf-torchneuron",
-    "fecha": "Mon, 19 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "How Itaú is building generative AI for its entire customer base",
-    "link": "https://openai.com/index/itau-generative-ai",
-    "fecha": "Fri, 16 Oct 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "fecha": "Fri, 16 Oct 2026 01:44:47 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
