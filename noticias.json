@@ -12,9 +12,27 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Accelerating engineering for the physical world",
+    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "fecha": "Tue, 03 Nov 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Cisco defends at machine speed with OpenAI",
+    "link": "https://openai.com/index/cisco-cyber",
+    "fecha": "Tue, 03 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Heimstaden is changing residential real estate management with AI",
     "link": "https://openai.com/index/heimstaden",
     "fecha": "Tue, 03 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "fecha": "Tue, 03 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -66,14 +84,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -150,6 +168,12 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Evernote turns AI-driven discovery into paid subscriptions",
+    "link": "https://openai.com/ads/customers/evernote",
+    "fecha": "Wed, 28 Oct 2026 19:40:49 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
     "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
     "fecha": "Wed, 28 Oct 2026 14:58:17 +0000",
@@ -216,6 +240,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Introducing GPT-6.1 Terra",
+    "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "fecha": "Mon, 26 Oct 2026 18:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Our newest AI Quest: Mapping the human brain",
     "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "fecha": "Mon, 26 Oct 2026 16:00:00 +0000",
@@ -249,12 +279,6 @@
     "titulo": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
     "link": "https://openai.com/index/openai-cut-incident-investigation",
     "fecha": "Mon, 26 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing GPT-6.1 Terra",
-    "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "fecha": "Mon, 26 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -454,29 +478,5 @@
     "link": "https://openai.com/index/terminal-x",
     "fecha": "Tue, 20 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "OpenAI acquires Orchestra Bio",
-    "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-    "link": "https://huggingface.co/blog/hf-torchtpu",
-    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "MPS in PyTorch 2.15",
-    "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "fecha": "Tue, 20 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
