@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "fecha": "Wed, 04 Nov 2026 17:50:10 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "link": "https://openai.com/index/openai-to-acquire-pierre",
+    "fecha": "Wed, 04 Nov 2026 14:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "fecha": "Wed, 04 Nov 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "StateBench: Testing how language models track state changes over long documents",
     "link": "https://huggingface.co/blog/allenai/statebench",
     "fecha": "Tue, 03 Nov 2026 17:15:21 +0000",
@@ -48,14 +66,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -84,14 +102,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://huggingface.co/blog/allenai/fairstress",
     "fecha": "Tue, 20 Oct 2026 16:09:19 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-    "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-    "fecha": "Tue, 20 Oct 2026 15:19:48 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-    "link": "https://openai.com/index/ted-taylor-restaurant",
-    "fecha": "Tue, 20 Oct 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-    "link": "https://openai.com/index/terminal-x",
-    "fecha": "Tue, 20 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
