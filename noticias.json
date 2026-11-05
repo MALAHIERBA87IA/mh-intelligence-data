@@ -12,9 +12,27 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "A thousand fewer paths to root",
+    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "fecha": "Wed, 04 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Daybreak Red is now available in AWS GovCloud (US-East)",
     "link": "https://openai.com/index/daybreak-red-aws-govcloud",
     "fecha": "Wed, 04 Nov 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing Images 2.6",
+    "link": "https://openai.com/index/introducing-images-2-6",
+    "fecha": "Wed, 04 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "link": "https://openai.com/index/devrev-enterprise-self-service",
+    "fecha": "Wed, 04 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -66,14 +84,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://openai.com/index/cloudflare-cyber",
     "fecha": "Wed, 21 Oct 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "link": "https://openai.com/index/empowering-cyber-defenders",
-    "fecha": "Wed, 21 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "fecha": "Tue, 20 Oct 2026 18:17:47 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-    "link": "https://huggingface.co/blog/allenai/fairstress",
-    "fecha": "Tue, 20 Oct 2026 16:09:19 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
