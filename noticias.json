@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Cult.fit builds operational muscle with Codex",
+    "link": "https://openai.com/index/cultfit-builds-with-codex",
+    "fecha": "Thu, 05 Nov 2026 20:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "fecha": "Thu, 05 Nov 2026 19:35:16 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Australian universities are creating AI-native graduates",
+    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
@@ -12,9 +30,27 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Merge builds product and business tools with OpenAI technology",
+    "link": "https://openai.com/index/merge-builds-with-openai",
+    "fecha": "Thu, 05 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Setting a new standard for responsible AI infrastructure",
     "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
     "fecha": "Thu, 05 Nov 2026 02:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Flipsnack grows product signups with conversion optimization",
+    "link": "https://openai.com/ads/customers/flipsnack",
+    "fecha": "Thu, 05 Nov 2026 00:45:15 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Franklin Templeton uses OpenAI to support investment research",
+    "link": "https://openai.com/index/franklin-templeton",
+    "fecha": "Thu, 05 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -144,14 +180,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -442,41 +478,5 @@
     "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "fecha": "Wed, 21 Oct 2026 16:04:43 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-    "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
-    "fecha": "Wed, 21 Oct 2026 16:04:43 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "fecha": "Wed, 21 Oct 2026 14:58:18 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "fecha": "Wed, 21 Oct 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-    "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-    "fecha": "Wed, 21 Oct 2026 12:51:24 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "OpenAI models are coming to Google Cloud",
-    "link": "https://openai.com/index/openai-models-google-cloud",
-    "fecha": "Wed, 21 Oct 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "fecha": "Wed, 21 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
