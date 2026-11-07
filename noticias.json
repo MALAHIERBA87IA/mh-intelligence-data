@@ -12,6 +12,12 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Measuring how AI agents handle everyday wet-lab science",
+    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "fecha": "Fri, 06 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Egyptian and Nigerian English join the Open ASR Leaderboard",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
     "fecha": "Fri, 06 Nov 2026 00:00:00 +0000",
@@ -162,14 +168,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://openai.com/index/broad-access-through-consistent-standards",
     "fecha": "Wed, 21 Oct 2026 21:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-    "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-    "fecha": "Wed, 21 Oct 2026 18:26:30 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
