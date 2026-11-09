@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "ChatGPT Enterprise now available in AWS Marketplace",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "fecha": "Mon, 09 Nov 2026 19:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "fecha": "Mon, 09 Nov 2026 15:05:57 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "fecha": "Mon, 09 Nov 2026 12:34:29 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Kuken Industries searches 70 years of drawings in minutes",
+    "link": "https://openai.com/index/kuken",
+    "fecha": "Mon, 09 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "ToyBlocks: A controlled world for robot learning and evaluation",
     "link": "https://huggingface.co/blog/allenai/toyblocks",
     "fecha": "Fri, 06 Nov 2026 14:00:48 +0000",
@@ -204,14 +228,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -454,29 +478,5 @@
     "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
     "fecha": "Thu, 22 Oct 2026 16:11:31 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Ensemble forecasting with IBM Granite time-series models",
-    "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "fecha": "Thu, 22 Oct 2026 07:51:31 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "What FDE means at OpenAI",
-    "link": "https://openai.com/index/forward-deployed-engineering-means",
-    "fecha": "Thu, 22 Oct 2026 06:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "fecha": "Thu, 22 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Broad access through consistent standards",
-    "link": "https://openai.com/index/broad-access-through-consistent-standards",
-    "fecha": "Wed, 21 Oct 2026 21:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
