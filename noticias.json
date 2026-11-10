@@ -1,9 +1,51 @@
 [
   {
+    "titulo": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "fecha": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Google Cloud launches Gemini for healthcare.",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "fecha": "Tue, 10 Nov 2026 13:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Helping caregivers use AI in everyday life",
+    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "fecha": "Tue, 10 Nov 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing Businesses in ChatGPT",
+    "link": "https://openai.com/index/introducing-businesses-chatgpt",
+    "fecha": "Tue, 10 Nov 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Closing the AI guidance gap in education",
     "link": "https://openai.com/index/closing-ai-guidance-gap-education",
     "fecha": "Tue, 10 Nov 2026 09:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Work at the Frontier: AI’s effect on freelance work",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "fecha": "Tue, 10 Nov 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "link": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "fecha": "Tue, 10 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Decision Models in Hugging Face",
+    "link": "https://huggingface.co/blog/decision",
+    "fecha": "Tue, 10 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -210,14 +252,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -436,47 +478,5 @@
     "link": "https://openai.com/index/fanatics-streamline-fan-experience",
     "fecha": "Mon, 26 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-    "link": "https://openai.com/index/openai-cut-incident-investigation",
-    "fecha": "Mon, 26 Oct 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-    "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-    "fecha": "Fri, 23 Oct 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-    "link": "https://huggingface.co/blog/allenai/litpivot",
-    "fecha": "Fri, 23 Oct 2026 16:15:50 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Securing our frontier model training environment",
-    "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-    "fecha": "Fri, 23 Oct 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-    "link": "https://openai.com/index/anima",
-    "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-    "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-    "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Does Your Model Run on AWS Trainium? Look It Up",
-    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-    "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
