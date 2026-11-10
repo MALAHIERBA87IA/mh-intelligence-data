@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Closing the AI guidance gap in education",
+    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "fecha": "Tue, 10 Nov 2026 09:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "ChatGPT Enterprise now available in AWS Marketplace",
     "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
     "fecha": "Mon, 09 Nov 2026 19:00:00 +0000",
@@ -12,10 +18,22 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "link": "https://openai.com/index/control-room",
+    "fecha": "Mon, 09 Nov 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
     "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "fecha": "Mon, 09 Nov 2026 12:34:29 +0000",
     "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "CodeRabbit scales agentic software development and ships 20x more",
+    "link": "https://openai.com/index/coderabbit-codex-daybreak",
+    "fecha": "Mon, 09 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Kuken Industries searches 70 years of drawings in minutes",
@@ -192,14 +210,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -228,14 +246,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -459,24 +477,6 @@
     "titulo": "Does Your Model Run on AWS Trainium? Look It Up",
     "link": "https://huggingface.co/blog/torch-neuronx-model-support",
     "fecha": "Fri, 23 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "fecha": "Thu, 22 Oct 2026 22:24:34 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Build more responsive apps with the Decisions API",
-    "link": "https://openai.com/index/decisions-api",
-    "fecha": "Thu, 22 Oct 2026 19:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
-    "link": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "fecha": "Thu, 22 Oct 2026 16:11:31 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
