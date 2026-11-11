@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Gilbert + Tobin rethinks the business of law with AI",
+    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "fecha": "Thu, 12 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "ChatGPT Plus for veterans and servicemembers",
+    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "fecha": "Wed, 11 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "link": "https://huggingface.co/blog/qvac/botpsy",
+    "fecha": "Wed, 11 Nov 2026 05:01:16 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Gemini Intelligence: New features, on more devices",
+    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "fecha": "Tue, 10 Nov 2026 19:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
     "titulo": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
     "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
     "fecha": "Tue, 10 Nov 2026 14:00:00 +0000",
@@ -30,9 +54,21 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "link": "https://openai.com/index/singapore-airlines-travel-work",
+    "fecha": "Tue, 10 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Work at the Frontier: AI’s effect on freelance work",
     "link": "https://openai.com/index/ai-effect-on-freelance-work",
     "fecha": "Tue, 10 Nov 2026 07:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "link": "https://openai.com/index/cogent-security",
+    "fecha": "Tue, 10 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
@@ -252,14 +288,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -441,42 +477,6 @@
     "titulo": "Greptile takes bug detection beyond code review with GPT-6 Astra",
     "link": "https://openai.com/index/greptile-code-review-codex-astra",
     "fecha": "Mon, 26 Oct 2026 22:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing GPT-6.1 Terra",
-    "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-    "fecha": "Mon, 26 Oct 2026 18:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Our newest AI Quest: Mapping the human brain",
-    "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-    "fecha": "Mon, 26 Oct 2026 16:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Working with academic communities to build scientific understanding",
-    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-    "fecha": "Mon, 26 Oct 2026 14:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "fecha": "Mon, 26 Oct 2026 13:45:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "ChatGPT’s expanding world of work",
-    "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "fecha": "Mon, 26 Oct 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Fanatics and OpenAI streamline the fan experience",
-    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "fecha": "Mon, 26 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
