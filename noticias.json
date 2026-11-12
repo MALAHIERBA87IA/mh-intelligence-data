@@ -1,9 +1,39 @@
 [
   {
+    "titulo": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "fecha": "Thu, 12 Nov 2026 19:07:35 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "fecha": "Thu, 12 Nov 2026 18:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Holiday Extras is rethinking what it can build with Codex",
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "fecha": "Thu, 12 Nov 2026 09:30:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Supporting research on AI and children’s safety",
+    "link": "https://openai.com/index/children-first-declaration",
+    "fecha": "Thu, 12 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Gilbert + Tobin rethinks the business of law with AI",
     "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
     "fecha": "Thu, 12 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
+    "fecha": "Thu, 12 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -354,14 +384,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -447,36 +477,6 @@
     "titulo": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
     "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
     "fecha": "Wed, 28 Oct 2026 14:58:17 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "fecha": "Wed, 28 Oct 2026 13:15:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "The future of the firm",
-    "link": "https://openai.com/index/the-future-of-the-firm",
-    "fecha": "Wed, 28 Oct 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Legora is building the agentic operating system for legal work",
-    "link": "https://openai.com/index/legora",
-    "fecha": "Wed, 28 Oct 2026 09:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Legora is building the agentic operating system for legal work",
-    "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-    "fecha": "Wed, 28 Oct 2026 09:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Build specialized multimodal models with LFM3",
-    "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-    "fecha": "Tue, 27 Oct 2026 17:16:52 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
