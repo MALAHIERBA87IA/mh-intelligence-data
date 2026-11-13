@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "fecha": "Thu, 12 Nov 2026 20:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
     "fecha": "Thu, 12 Nov 2026 19:07:35 +0000",
@@ -10,6 +16,12 @@
     "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "fecha": "Thu, 12 Nov 2026 18:00:00 +0000",
     "fuente": "Google AI"
+  },
+  {
+    "titulo": "Gondola doubles revenue as its team builds more with Codex",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "fecha": "Thu, 12 Nov 2026 12:00:00 +0000",
+    "fuente": "OpenAI News"
   },
   {
     "titulo": "Holiday Extras is rethinking what it can build with Codex",
@@ -348,14 +360,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
     "link": "https://huggingface.co/blog/anydecisionmodel",
     "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Evernote turns AI-driven discovery into paid subscriptions",
-    "link": "https://openai.com/ads/customers/evernote",
-    "fecha": "Wed, 28 Oct 2026 19:40:49 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-    "fecha": "Wed, 28 Oct 2026 14:58:17 +0000",
     "fuente": "Hugging Face - Blog"
   }
 ]
