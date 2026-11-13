@@ -1,5 +1,29 @@
 [
   {
+    "titulo": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "fecha": "Fri, 13 Nov 2026 18:00:39 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "XYBench: Helping with the problem behind the question",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "fecha": "Fri, 13 Nov 2026 17:02:35 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Introducing ChatGPT Wallet",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "fecha": "Fri, 13 Nov 2026 15:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "fecha": "Fri, 13 Nov 2026 14:05:22 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "link": "https://openai.com/business/customer-stories/amplitude",
     "fecha": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -360,14 +384,14 @@
     "fuente": "Hugging Face - Blog"
   },
   {
-    "titulo": "Preparing our next security sprint to harden OpenAI",
-    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "titulo": "Rewarding defenders with bigger bug bounties",
+    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Rewarding defenders with bigger bug bounties",
-    "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "titulo": "Preparing our next security sprint to harden OpenAI",
+    "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
     "fecha": "Mon, 02 Nov 2026 18:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -454,29 +478,5 @@
     "link": "https://openai.com/index/ropes-gray-ai-diligence",
     "fecha": "Thu, 29 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "link": "https://openai.com/index/credit-saison",
-    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-    "link": "https://huggingface.co/blog/announcing-project-protostar",
-    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-    "link": "https://huggingface.co/blog/mistral-large4",
-    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-    "link": "https://huggingface.co/blog/anydecisionmodel",
-    "fecha": "Thu, 29 Oct 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
