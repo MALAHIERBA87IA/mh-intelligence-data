@@ -24,6 +24,12 @@
     "fuente": "Hugging Face - Blog"
   },
   {
+    "titulo": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "fecha": "Fri, 13 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "link": "https://openai.com/business/customer-stories/amplitude",
     "fecha": "Thu, 12 Nov 2026 20:00:00 +0000",
@@ -471,12 +477,6 @@
     "titulo": "How we detect frontier model misalignment",
     "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "fecha": "Thu, 29 Oct 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How Ropes & Gray is developing AI for transactional diligence",
-    "link": "https://openai.com/index/ropes-gray-ai-diligence",
-    "fecha": "Thu, 29 Oct 2026 07:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
