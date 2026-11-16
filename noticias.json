@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "A step toward defining the Standard Model on a lattice",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "fecha": "Sun, 15 Nov 2026 22:00:01 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Our new blog for science",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "fecha": "Sun, 15 Nov 2026 22:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
     "fecha": "Fri, 13 Nov 2026 18:00:39 +0000",
@@ -426,14 +438,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Qodo builds context into AI code review with Codex",
-    "link": "https://openai.com/index/qodo-codex-plugin",
+    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "link": "https://openai.com/index/dan-driscoll-joins-openai",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "link": "https://openai.com/index/dan-driscoll-joins-openai",
+    "titulo": "Qodo builds context into AI code review with Codex",
+    "link": "https://openai.com/index/qodo-codex-plugin",
     "fecha": "Mon, 02 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -465,18 +477,6 @@
     "titulo": "An updated Model Spec for more capable and beneficial AI",
     "link": "https://openai.com/index/updated-model-spec",
     "fecha": "Thu, 29 Oct 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Granite Switch 4.1.1 — Update models like you update software",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "fecha": "Thu, 29 Oct 2026 13:37:07 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "How we detect frontier model misalignment",
-    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "fecha": "Thu, 29 Oct 2026 09:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
