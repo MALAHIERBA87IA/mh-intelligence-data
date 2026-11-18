@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Introducing GPT-6.2 Astra and Sol",
     "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
     "fecha": "Tue, 17 Nov 2026 17:45:00 +0000",
@@ -12,20 +18,26 @@
     "fuente": "Google AI"
   },
   {
+    "titulo": "Introducing ChatGPT for Sales",
+    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "fecha": "Tue, 17 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Strengthening NATO and allied cyber defenses with AI",
     "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "titulo": "Astra for Law leads in legal intelligence",
+    "link": "https://openai.com/index/astra-law-6-2",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
+    "titulo": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/devrev-enterprise-self-service",
     "fecha": "Wed, 04 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "StateBench: Testing how language models track state changes over long documents",
-    "link": "https://huggingface.co/blog/allenai/statebench",
-    "fecha": "Tue, 03 Nov 2026 17:15:21 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Palette: teaching a small model to build decks in your design language",
-    "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-    "fecha": "Tue, 03 Nov 2026 16:35:36 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
