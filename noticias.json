@@ -1,9 +1,57 @@
 [
   {
+    "titulo": "Why your fine-tuning job takes longer than the FLOPs say",
+    "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+    "fecha": "Wed, 18 Nov 2026 18:53:43 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "The Gemini app is now available on lower-memory Android devices.",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "fecha": "Wed, 18 Nov 2026 17:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+    "fecha": "Wed, 18 Nov 2026 15:00:23 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Inside the Codex sandbox",
+    "link": "https://openai.com/index/inside-the-codex-sandbox",
+    "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "The Silent Consensus",
+    "link": "https://openai.com/index/the-silent-consensus",
+    "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Advancing chip design with OpenAI models",
+    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
     "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+    "link": "https://huggingface.co/blog/moe-expert-streaming",
+    "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+    "link": "https://huggingface.co/blog/rumble-2-flash",
+    "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "Introducing GPT-6.2 Astra and Sol",
@@ -30,14 +78,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
+    "titulo": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "titulo": "Astra for Law leads in legal intelligence",
+    "link": "https://openai.com/index/astra-law-6-2",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -429,54 +477,6 @@
     "titulo": "Flipsnack grows product signups with conversion optimization",
     "link": "https://openai.com/ads/customers/flipsnack",
     "fecha": "Thu, 05 Nov 2026 00:45:15 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Franklin Templeton uses OpenAI to support investment research",
-    "link": "https://openai.com/index/franklin-templeton",
-    "fecha": "Thu, 05 Nov 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-    "link": "https://huggingface.co/blog/phonon-tts",
-    "fecha": "Thu, 05 Nov 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-    "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "fecha": "Wed, 04 Nov 2026 17:50:10 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "OpenAI to acquire Pierre Computer Company, Inc.",
-    "link": "https://openai.com/index/openai-to-acquire-pierre",
-    "fecha": "Wed, 04 Nov 2026 14:30:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "A thousand fewer paths to root",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "fecha": "Wed, 04 Nov 2026 08:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Daybreak Red is now available in AWS GovCloud (US-East)",
-    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
-    "fecha": "Wed, 04 Nov 2026 07:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing Images 2.6",
-    "link": "https://openai.com/index/introducing-images-2-6",
-    "fecha": "Wed, 04 Nov 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "link": "https://openai.com/index/devrev-enterprise-self-service",
-    "fecha": "Wed, 04 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
