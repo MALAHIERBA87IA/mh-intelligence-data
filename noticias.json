@@ -1,5 +1,23 @@
 [
   {
+    "titulo": "Introducing Tool Retrieval in the Gemini API",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "fecha": "Thu, 19 Nov 2026 18:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "fecha": "Thu, 19 Nov 2026 17:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "fecha": "Thu, 19 Nov 2026 08:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
     "fecha": "Wed, 18 Nov 2026 19:54:56 +0000",
@@ -30,14 +48,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Research acceleration: The jagged frontier",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "titulo": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -102,14 +120,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
+    "titulo": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "titulo": "Astra for Law leads in legal intelligence",
+    "link": "https://openai.com/index/astra-law-6-2",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -460,23 +478,5 @@
     "link": "https://openai.com/index/cultfit-builds-with-codex",
     "fecha": "Thu, 05 Nov 2026 20:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "fecha": "Thu, 05 Nov 2026 19:35:16 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Australian universities are creating AI-native graduates",
-    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-    "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-    "fecha": "Thu, 05 Nov 2026 17:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
