@@ -1,5 +1,17 @@
 [
   {
+    "titulo": "Can AI help scientists identify promising drug candidates?",
+    "link": "https://openai.com/index/introducing-medchembench",
+    "fecha": "Fri, 20 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "fecha": "Fri, 20 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Introducing Tool Retrieval in the Gemini API",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
     "fecha": "Thu, 19 Nov 2026 18:00:00 +0000",
@@ -18,8 +30,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Deploying Daybreak Red",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "titulo": "Get started with Daybreak Blue",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -30,14 +42,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Explore the Codex Security Plugin",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "titulo": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Get started with Daybreak Blue",
-    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "titulo": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -72,14 +84,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Research acceleration: The jagged frontier",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "titulo": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -96,14 +108,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Advancing chip design with OpenAI models",
-    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "titulo": "Advancing chip design with OpenAI models",
+    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
     "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/kuken",
     "fecha": "Mon, 09 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "How VistaPrint helps small businesses get the word out",
-    "link": "https://openai.com/ads/customers/vistaprint",
-    "fecha": "Mon, 09 Nov 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "ToyBlocks: A controlled world for robot learning and evaluation",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "fecha": "Fri, 06 Nov 2026 14:00:48 +0000",
-    "fuente": "Hugging Face - Blog"
   }
 ]
