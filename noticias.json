@@ -18,6 +18,30 @@
     "fuente": "OpenAI News"
   },
   {
+    "titulo": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Get started with Daybreak Blue",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
     "fecha": "Wed, 18 Nov 2026 19:54:56 +0000",
@@ -48,14 +72,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "titulo": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Research acceleration: The jagged frontier",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -72,14 +96,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "titulo": "Advancing chip design with OpenAI models",
+    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
     "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Advancing chip design with OpenAI models",
-    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -454,29 +478,5 @@
     "link": "https://huggingface.co/blog/allenai/toyblocks",
     "fecha": "Fri, 06 Nov 2026 14:00:48 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "fecha": "Fri, 06 Nov 2026 08:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Measuring how AI agents handle everyday wet-lab science",
-    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "fecha": "Fri, 06 Nov 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-    "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "fecha": "Fri, 06 Nov 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Cult.fit builds operational muscle with Codex",
-    "link": "https://openai.com/index/cultfit-builds-with-codex",
-    "fecha": "Thu, 05 Nov 2026 20:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
