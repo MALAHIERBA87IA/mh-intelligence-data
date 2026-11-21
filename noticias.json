@@ -1,9 +1,27 @@
 [
   {
+    "titulo": "Combatting adversarial distillation",
+    "link": "https://openai.com/index/combatting-adversarial-distillation",
+    "fecha": "Fri, 20 Nov 2026 10:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "link": "https://openai.com/business/customer-stories/hebbia",
+    "fecha": "Fri, 20 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Can AI help scientists identify promising drug candidates?",
     "link": "https://openai.com/index/introducing-medchembench",
     "fecha": "Fri, 20 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "link": "https://huggingface.co/blog/inkling2mini",
+    "fecha": "Fri, 20 Nov 2026 00:00:00 +0000",
+    "fuente": "Hugging Face - Blog"
   },
   {
     "titulo": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -30,8 +48,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Get started with Daybreak Blue",
-    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "titulo": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -42,14 +60,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Deploying Daybreak Red",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "titulo": "Get started with Daybreak Blue",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Explore the Codex Security Plugin",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "titulo": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -108,14 +126,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "titulo": "Advancing chip design with OpenAI models",
+    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
     "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Advancing chip design with OpenAI models",
-    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "titulo": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "fecha": "Wed, 18 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -156,14 +174,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "titulo": "Astra for Law leads in legal intelligence",
+    "link": "https://openai.com/index/astra-law-6-2",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
+    "titulo": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -459,24 +477,6 @@
     "titulo": "Control Room: A central system to track and stop model workloads across our research infrastructure",
     "link": "https://openai.com/index/control-room",
     "fecha": "Mon, 09 Nov 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "fecha": "Mon, 09 Nov 2026 12:34:29 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "CodeRabbit scales agentic software development and ships 20x more",
-    "link": "https://openai.com/index/coderabbit-codex-daybreak",
-    "fecha": "Mon, 09 Nov 2026 08:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Kuken Industries searches 70 years of drawings in minutes",
-    "link": "https://openai.com/index/kuken",
-    "fecha": "Mon, 09 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
