@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Perplexity and Intelligence",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "fecha": "Sun, 22 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "Combatting adversarial distillation",
     "link": "https://openai.com/index/combatting-adversarial-distillation",
     "fecha": "Fri, 20 Nov 2026 10:00:00 +0000",
@@ -48,8 +54,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Explore the Codex Security Plugin",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "titulo": "Deploying Daybreak Red",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -66,8 +72,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Deploying Daybreak Red",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "titulo": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -102,14 +108,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "titulo": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Research acceleration: The jagged frontier",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -174,14 +180,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
+    "titulo": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "titulo": "Astra for Law leads in legal intelligence",
+    "link": "https://openai.com/index/astra-law-6-2",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -472,11 +478,5 @@
     "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
     "fecha": "Mon, 09 Nov 2026 15:05:57 +0000",
     "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "link": "https://openai.com/index/control-room",
-    "fecha": "Mon, 09 Nov 2026 13:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
