@@ -1,5 +1,41 @@
 [
   {
+    "titulo": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "fecha": "Tue, 24 Nov 2026 16:34:13 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "How Gemini is changing the game for Golden State's organization and fans.",
+    "link": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "fecha": "Tue, 24 Nov 2026 16:00:00 +0000",
+    "fuente": "Google AI"
+  },
+  {
+    "titulo": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "fecha": "Tue, 24 Nov 2026 13:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Searching for distant planets with Astra",
+    "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "fecha": "Tue, 24 Nov 2026 11:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How Intentful uses dots to make more time for growth",
+    "link": "https://openai.com/business/customer-stories/intentful-dots",
+    "fecha": "Tue, 24 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "How iFood scales coding agents across 15,000 repositories",
+    "link": "https://openai.com/business/customer-stories/ifood",
+    "fecha": "Tue, 24 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
     "titulo": "OpenAI and Cisco introduce Shirudo",
     "link": "https://openai.com/index/introducing-shirudo",
     "fecha": "Mon, 23 Nov 2026 21:20:00 +0000",
@@ -90,18 +126,6 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "See PR scans in action",
-    "link": "https://openai.com/business/learn/pr-scans-demo",
-    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Get started with Daybreak Blue",
-    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
     "titulo": "Explore the Codex Security Plugin",
     "link": "https://openai.com/business/learn/codex-security-plugin-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
@@ -110,6 +134,18 @@
   {
     "titulo": "Deploying Daybreak Red",
     "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Get started with Daybreak Blue",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -144,14 +180,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Research acceleration: The jagged frontier",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "titulo": "Research acceleration: The jagged frontier",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
     "fecha": "Wed, 18 Nov 2026 08:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -270,14 +306,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "More ways to move care forward with ChatGPT for Healthcare",
-    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "titulo": "Advancing computer-use agents for healthcare teams",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "fecha": "Mon, 16 Nov 2026 06:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Advancing computer-use agents for healthcare teams",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "titulo": "More ways to move care forward with ChatGPT for Healthcare",
+    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "fecha": "Mon, 16 Nov 2026 06:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -442,41 +478,5 @@
     "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
     "fecha": "Tue, 10 Nov 2026 19:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-    "fecha": "Tue, 10 Nov 2026 14:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Google Cloud launches Gemini for healthcare.",
-    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-    "fecha": "Tue, 10 Nov 2026 13:00:00 +0000",
-    "fuente": "Google AI"
-  },
-  {
-    "titulo": "Helping caregivers use AI in everyday life",
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "fecha": "Tue, 10 Nov 2026 12:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Introducing Businesses in ChatGPT",
-    "link": "https://openai.com/index/introducing-businesses-chatgpt",
-    "fecha": "Tue, 10 Nov 2026 10:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Closing the AI guidance gap in education",
-    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "fecha": "Tue, 10 Nov 2026 09:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Singapore Airlines elevates travel & work with OpenAI technology",
-    "link": "https://openai.com/index/singapore-airlines-travel-work",
-    "fecha": "Tue, 10 Nov 2026 08:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
