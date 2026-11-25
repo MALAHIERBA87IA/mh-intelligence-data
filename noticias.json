@@ -1,8 +1,20 @@
 [
   {
+    "titulo": "Where scientists draw the line on AI agents",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "fecha": "Wed, 25 Nov 2026 18:52:55 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "An Indic Voice Agent with CUGA",
     "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "fecha": "Wed, 25 Nov 2026 10:22:09 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
+    "titulo": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "fecha": "Wed, 25 Nov 2026 00:00:00 +0000",
     "fuente": "Hugging Face - Blog"
   },
   {
@@ -465,18 +477,6 @@
     "titulo": "ChatGPT Plus for veterans and servicemembers",
     "link": "https://openai.com/index/chatgpt-plus-for-veterans",
     "fecha": "Wed, 11 Nov 2026 08:00:00 +0000",
-    "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "fecha": "Wed, 11 Nov 2026 05:01:16 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "link": "https://openai.com/index/jiostar-vijay-seshadri",
-    "fecha": "Wed, 11 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   }
 ]
