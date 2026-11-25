@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "An Indic Voice Agent with CUGA",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "fecha": "Wed, 25 Nov 2026 10:22:09 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
     "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
     "fecha": "Tue, 24 Nov 2026 16:34:13 +0000",
@@ -32,6 +38,12 @@
   {
     "titulo": "How iFood scales coding agents across 15,000 repositories",
     "link": "https://openai.com/business/customer-stories/ifood",
+    "fecha": "Tue, 24 Nov 2026 00:00:00 +0000",
+    "fuente": "OpenAI News"
+  },
+  {
+    "titulo": "Clay helps sales teams win with Codex and ChatGPT",
+    "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
     "fecha": "Tue, 24 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -126,8 +138,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Explore the Codex Security Plugin",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "titulo": "See PR scans in action",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -138,8 +150,8 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "See PR scans in action",
-    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "titulo": "Explore the Codex Security Plugin",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
     "fecha": "Thu, 19 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -252,14 +264,14 @@
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Astra for Law leads in legal intelligence",
-    "link": "https://openai.com/index/astra-law-6-2",
+    "titulo": "Introducing OpenAI for Chile",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
   {
-    "titulo": "Introducing OpenAI for Chile",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "titulo": "Astra for Law leads in legal intelligence",
+    "link": "https://openai.com/index/astra-law-6-2",
     "fecha": "Tue, 17 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
   },
@@ -466,17 +478,5 @@
     "link": "https://openai.com/index/jiostar-vijay-seshadri",
     "fecha": "Wed, 11 Nov 2026 00:00:00 +0000",
     "fuente": "OpenAI News"
-  },
-  {
-    "titulo": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-    "link": "https://huggingface.co/blog/token-pooling",
-    "fecha": "Wed, 11 Nov 2026 00:00:00 +0000",
-    "fuente": "Hugging Face - Blog"
-  },
-  {
-    "titulo": "Gemini Intelligence: New features, on more devices",
-    "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-    "fecha": "Tue, 10 Nov 2026 19:00:00 +0000",
-    "fuente": "Google AI"
   }
 ]
