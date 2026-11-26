@@ -1,5 +1,11 @@
 [
   {
+    "titulo": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "fecha": "Thu, 26 Nov 2026 05:05:36 +0000",
+    "fuente": "Hugging Face - Blog"
+  },
+  {
     "titulo": "Where scientists draw the line on AI agents",
     "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
     "fecha": "Wed, 25 Nov 2026 18:52:55 +0000",
@@ -472,11 +478,5 @@
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
     "fecha": "Wed, 11 Nov 2026 09:00:00 +0000",
     "fuente": "Google AI"
-  },
-  {
-    "titulo": "ChatGPT Plus for veterans and servicemembers",
-    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "fecha": "Wed, 11 Nov 2026 08:00:00 +0000",
-    "fuente": "OpenAI News"
   }
 ]
